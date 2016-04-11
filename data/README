@@ -1,0 +1,97 @@
+The files Genes_relation.test and Interactions_relation.test
+have the same format as the files Genes_relation.data and
+Interactions_relation.data.  Genes_relation.data provides all
+the basic information about the 381 test genes, while
+Interactions_relation tells the genes (training or test) with
+which each test gene interacts.  The file Full_File.test has
+the same format as Full_File.data, but again is for the test
+genes rather than the training genes.  Note that in both
+Genes_relation.test and Full_File.test, the function and
+localization fields are missing, that is, have been replaced
+by question marks (?).  If you prefer a version of Full_File
+containing *both* the training and test genes in one file, that
+is available on request (although again the functions and
+localizations for test set genes will be missing, of course).
+
+You may submit your predictions by email to page@biostat.wisc.edu
+or by anonymous ftp to ftp.biostat.wisc.edu, placing the file
+into the directory dropboxes/page/.  You may choose to submit
+predictions for one or both of Task 2 and Task 3.  Task 2 is to
+predict function, while Task 3 is to predict localization.  Please
+read the following carefully before submitting.
+
+
+TASK 2
+
+If using email, please use the subject line "KDDcup <name> function"
+where <name> is your name.  If using ftp, please name the file
+KDDcup.<name>.function where <name> is your name.  For example,
+my submission would be named KDDcup.DavidPage.function
+
+Your submission should be in the form of a file that starts with
+your contact information, followed by a line with 5 asterisks,
+followed immediately by your predictions, one per line.  Because
+each gene may have more than one function, you might have more than
+one line per gene.  Each line should have the form
+
+<gene name>,'<function>'
+
+where you are predicting that the gene named <gene name> has the
+function <function>.  Hence, after your contact information, the
+prediction file will have the form:
+
+*****
+G234062,'CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle)'
+G234062,'TRANSCRIPTION'
+G234081,'CELLULAR TRANSPORT AND TRANSPORT MECHANISMS'
+G234081,'"Auxotrophies, carbon and"'
+G234081,'ENERGY'
+
+etc.
+
+
+Because our scoring is automated, please ensure that gene names
+and functions are exactly as they appear in the training (.data) and
+.names files we provided earlier. 
+
+
+TASK 3
+
+If using email, please use the subject line "KDDcup <name> localization"
+where <name> is your name.  If using ftp, please name the file
+KDDcup.<name>.localization where <name> is your name.  For example,
+my submission would be named KDDcup.DavidPage.localization
+
+Your submission should be in the form of a file that starts with
+your contact information, followed by a line with 5 asterisks,
+followed immediately by your predictions, one per line.  Each line
+should have the form
+
+<gene name>,'<localization>'
+
+where you are predicting that the gene named <gene name> has the
+localization <localization>.  Please note that, unlike function,
+you may assume each one has a unique localization.  Hence, after
+your contact information, the prediction file will have the form:
+
+*****
+G234062,'cytoplasm'
+G234081,'nucleus'
+
+etc.
+
+Again, because our scoring is automated, please ensure that gene
+names and localizations are exactly as they appear in the training
+(.data) and .names files we provided earlier. 
+
+FINAL NOTES
+
+Only one submission per person per task is permitted.  If you do not
+receive email confirmation of your submission within 24 hours, please
+email page@biostat.wisc.edu with subject "KDDcup no confirmation".
+
+For group entries, the contact information should include the names
+of everyone to be credited as a member of the group should your entry
+achieve the highest score.  But no person is to be listed on more than
+one entry per task.
+

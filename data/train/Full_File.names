@@ -1,0 +1,2960 @@
+Gene:	label.
+ESSENTIAL:	Essential, Non-Essential, Ambiguous-Essential.
+CLASS Actin related proteins     :	Yes, No.
+CLASS Actins       :	Yes, No.
+CLASS Adaptins:	Yes, No.
+CLASS ATPases:	Yes, No.
+CLASS Cyclins:	Yes, No.
+CLASS Dehydrogenases:	Yes, No.
+CLASS GTP-binding proteins:	Yes, No.
+CLASS GTP/GDP dissociation inhibitors (GDIs):	Yes, No.
+CLASS GTP/GDP-exchange factors (GEFs):	Yes, No.
+CLASS GTPase activating proteins (GAPs):	Yes, No.
+CLASS Histones:	Yes, No.
+CLASS Major facilitator superfamily proteins (MFS)   :	Yes, No.
+CLASS Molecular chaperones:	Yes, No.
+CLASS Motorproteins:	Yes, No.
+CLASS Nucleases:	Yes, No.
+CLASS Other kinases:	Yes, No.
+CLASS Peptidyl-Prolyl-Isomerases :	Yes, No.
+CLASS Polymerases:	Yes, No.
+CLASS Proteases       :	Yes, No.
+CLASS Protein Kinases:	Yes, No.
+CLASS Protein phosphatases:	Yes, No.
+CLASS Transcription factors:	Yes, No.
+CLASS Tubulins:	Yes, No.
+CLASS Ubiquitin-system proteins:	Yes, No.
+COMPLEX 2-oxoglutarate dehydrogenase       :	Yes, No.
+COMPLEX Acetolactate synthase       :	Yes, No.
+COMPLEX "Alpha, alpha-trehalose-phosphate synthase      ":	Yes, No.
+COMPLEX Anaphase promoting complex (APC)     :	Yes, No.
+COMPLEX Arginase        :	Yes, No.
+COMPLEX Arginine-specific carbamoylphosphate synthase      :	Yes, No.
+COMPLEX Assembly complexes:	Yes, No.
+COMPLEX Calcineurin B       :	Yes, No.
+COMPLEX cAMP-dependent protein kinase      :	Yes, No.
+COMPLEX Casein kinase:	Yes, No.
+COMPLEX Cell cycle checkpoint complexes:	Yes, No.
+COMPLEX Chaperonine containing T-complex TRiC (TCP RING Complex)  :	Yes, No.
+COMPLEX Cyclin-CDK (Cyclin-dependent kinases) complexes:	Yes, No.
+COMPLEX Cytoskeleton:	Yes, No.
+COMPLEX delta3-cis-delta2-trans-enoyl-CoA isomerase       :	Yes, No.
+COMPLEX "Endonuclease SceI, mitochondrial      ":	Yes, No.
+COMPLEX Exocyst complex       :	Yes, No.
+COMPLEX "Fatty acid synthetase, cytoplasmic     ":	Yes, No.
+COMPLEX Gim complexes       :	Yes, No.
+COMPLEX Glucan synthases:	Yes, No.
+COMPLEX "H+-ATPase, plasma mebrane      ":	Yes, No.
+COMPLEX "H+-transporting ATPase, vacuolar      ":	Yes, No.
+COMPLEX Hexokinase 2       :	Yes, No.
+COMPLEX Histone acetyltransferase complexes:	Yes, No.
+COMPLEX Histone deacetylase complexes:	Yes, No.
+COMPLEX Intracellular transport complexes:	Yes, No.
+COMPLEX Isocitrate lyase       :	Yes, No.
+COMPLEX Kel1p/Kel2p complex       :	Yes, No.
+COMPLEX Kinetochore protein complexes:	Yes, No.
+COMPLEX L-aminopadipate-semialdehyde dehydrogenase       :	Yes, No.
+COMPLEX Mitochondrial translocase complex      :	Yes, No.
+COMPLEX Nem1p-Spo7p complex       :	Yes, No.
+COMPLEX Nonsense-mediated mRNA decay pathway complex    :	Yes, No.
+COMPLEX Nuclear pore complex (NPC)     :	Yes, No.
+COMPLEX Nucleosomal protein complex      :	Yes, No.
+COMPLEX Ornithine carbamoyltransferase       :	Yes, No.
+COMPLEX Phosphofructokinase        :	Yes, No.
+COMPLEX Prenyltransferases:	Yes, No.
+COMPLEX "Proteases, mitochondrial":	Yes, No.
+COMPLEX Proteasome:	Yes, No.
+COMPLEX Pyruvate dehydrogenase       :	Yes, No.
+COMPLEX Pyruvate kinase       :	Yes, No.
+COMPLEX Replication complexes:	Yes, No.
+COMPLEX Respiration chain complexes:	Yes, No.
+COMPLEX Ribonucleoside-diphosphate reductase       :	Yes, No.
+COMPLEX RNA processing complexes:	Yes, No.
+COMPLEX RSC complex (Remodel the structure of chromatin)  :	Yes, No.
+COMPLEX SCF (Skp1-Cdc53-F-box protein) complexes:	Yes, No.
+COMPLEX Serine/threonine phoshpoprotein phosphatase      :	Yes, No.
+COMPLEX Sister chromatid cohesion regulation complex    :	Yes, No.
+COMPLEX Spindle pole body (SPB)     :	Yes, No.
+COMPLEX Succinyl-CoA ligase       :	Yes, No.
+COMPLEX Synaptonemal complex (SC)      :	Yes, No.
+COMPLEX Transcription complexes/Transcriptosome:	Yes, No.
+COMPLEX Translation complexes:	Yes, No.
+COMPLEX Translocon:	Yes, No.
+PHENOTYPE "Auxotrophies, carbon and    ":	Yes, No.
+PHENOTYPE Carbohydrate and lipid biosynthesis defects  :	Yes, No.
+PHENOTYPE Cell cycle defects    :	Yes, No.
+PHENOTYPE Cell morphology and organelle mutants  :	Yes, No.
+PHENOTYPE Conditional phenotypes     :	Yes, No.
+PHENOTYPE Mating and sporulation defects   :	Yes, No.
+PHENOTYPE Nucleic acid metabolism defects   :	Yes, No.
+PHENOTYPE Sensitivity to aminoacid analogs and other drugs:	Yes, No.
+PHENOTYPE Sensitivity to antibiotics    :	Yes, No.
+PHENOTYPE Sensitivity to immunosuppressants    :	Yes, No.
+PHENOTYPE Stress response defects    :	Yes, No.
+MOTIF PS00012:	Yes, No.
+MOTIF PS00013:	Yes, No.
+MOTIF PS00014:	Yes, No.
+MOTIF PS00017:	Yes, No.
+MOTIF PS00018:	Yes, No.
+MOTIF PS00019:	Yes, No.
+MOTIF PS00020:	Yes, No.
+MOTIF PS00022:	Yes, No.
+MOTIF PS00027:	Yes, No.
+MOTIF PS00028:	Yes, No.
+MOTIF PS00030:	Yes, No.
+MOTIF PS00036:	Yes, No.
+MOTIF PS00037:	Yes, No.
+MOTIF PS00038:	Yes, No.
+MOTIF PS00039:	Yes, No.
+MOTIF PS00044:	Yes, No.
+MOTIF PS00046:	Yes, No.
+MOTIF PS00047:	Yes, No.
+MOTIF PS00050:	Yes, No.
+MOTIF PS00051:	Yes, No.
+MOTIF PS00052:	Yes, No.
+MOTIF PS00054:	Yes, No.
+MOTIF PS00056:	Yes, No.
+MOTIF PS00058:	Yes, No.
+MOTIF PS00059:	Yes, No.
+MOTIF PS00061:	Yes, No.
+MOTIF PS00063:	Yes, No.
+MOTIF PS00065:	Yes, No.
+MOTIF PS00066:	Yes, No.
+MOTIF PS00070:	Yes, No.
+MOTIF PS00071:	Yes, No.
+MOTIF PS00074:	Yes, No.
+MOTIF PS00078:	Yes, No.
+MOTIF PS00079:	Yes, No.
+MOTIF PS00086:	Yes, No.
+MOTIF PS00087:	Yes, No.
+MOTIF PS00089:	Yes, No.
+MOTIF PS00092:	Yes, No.
+MOTIF PS00097:	Yes, No.
+MOTIF PS00098:	Yes, No.
+MOTIF PS00101:	Yes, No.
+MOTIF PS00103:	Yes, No.
+MOTIF PS00105:	Yes, No.
+MOTIF PS00106:	Yes, No.
+MOTIF PS00107:	Yes, No.
+MOTIF PS00108:	Yes, No.
+MOTIF PS00110:	Yes, No.
+MOTIF PS00114:	Yes, No.
+MOTIF PS00115:	Yes, No.
+MOTIF PS00116:	Yes, No.
+MOTIF PS00120:	Yes, No.
+MOTIF PS00123:	Yes, No.
+MOTIF PS00125:	Yes, No.
+MOTIF PS00126:	Yes, No.
+MOTIF PS00129:	Yes, No.
+MOTIF PS00133:	Yes, No.
+MOTIF PS00136:	Yes, No.
+MOTIF PS00137:	Yes, No.
+MOTIF PS00141:	Yes, No.
+MOTIF PS00142:	Yes, No.
+MOTIF PS00143:	Yes, No.
+MOTIF PS00147:	Yes, No.
+MOTIF PS00148:	Yes, No.
+MOTIF PS00152:	Yes, No.
+MOTIF PS00153:	Yes, No.
+MOTIF PS00154:	Yes, No.
+MOTIF PS00156:	Yes, No.
+MOTIF PS00161:	Yes, No.
+MOTIF PS00165:	Yes, No.
+MOTIF PS00167:	Yes, No.
+MOTIF PS00168:	Yes, No.
+MOTIF PS00170:	Yes, No.
+MOTIF PS00174:	Yes, No.
+MOTIF PS00175:	Yes, No.
+MOTIF PS00176:	Yes, No.
+MOTIF PS00177:	Yes, No.
+MOTIF PS00178:	Yes, No.
+MOTIF PS00179:	Yes, No.
+MOTIF PS00183:	Yes, No.
+MOTIF PS00187:	Yes, No.
+MOTIF PS00188:	Yes, No.
+MOTIF PS00189:	Yes, No.
+MOTIF PS00190:	Yes, No.
+MOTIF PS00191:	Yes, No.
+MOTIF PS00194:	Yes, No.
+MOTIF PS00197:	Yes, No.
+MOTIF PS00198:	Yes, No.
+MOTIF PS00199:	Yes, No.
+MOTIF PS00200:	Yes, No.
+MOTIF PS00211:	Yes, No.
+MOTIF PS00213:	Yes, No.
+MOTIF PS00215:	Yes, No.
+MOTIF PS00216:	Yes, No.
+MOTIF PS00217:	Yes, No.
+MOTIF PS00218:	Yes, No.
+MOTIF PS00221:	Yes, No.
+MOTIF PS00225:	Yes, No.
+MOTIF PS00227:	Yes, No.
+MOTIF PS00228:	Yes, No.
+MOTIF PS00231:	Yes, No.
+MOTIF PS00237:	Yes, No.
+MOTIF PS00284:	Yes, No.
+MOTIF PS00292:	Yes, No.
+MOTIF PS00293:	Yes, No.
+MOTIF PS00294:	Yes, No.
+MOTIF PS00296:	Yes, No.
+MOTIF PS00297:	Yes, No.
+MOTIF PS00298:	Yes, No.
+MOTIF PS00299:	Yes, No.
+MOTIF PS00300:	Yes, No.
+MOTIF PS00301:	Yes, No.
+MOTIF PS00317:	Yes, No.
+MOTIF PS00322:	Yes, No.
+MOTIF PS00324:	Yes, No.
+MOTIF PS00325:	Yes, No.
+MOTIF PS00327:	Yes, No.
+MOTIF PS00329:	Yes, No.
+MOTIF PS00332:	Yes, No.
+MOTIF PS00333:	Yes, No.
+MOTIF PS00334:	Yes, No.
+MOTIF PS00339:	Yes, No.
+MOTIF PS00340:	Yes, No.
+MOTIF PS00343:	Yes, No.
+MOTIF PS00344:	Yes, No.
+MOTIF PS00350:	Yes, No.
+MOTIF PS00351:	Yes, No.
+MOTIF PS00357:	Yes, No.
+MOTIF PS00368:	Yes, No.
+MOTIF PS00373:	Yes, No.
+MOTIF PS00378:	Yes, No.
+MOTIF PS00379:	Yes, No.
+MOTIF PS00383:	Yes, No.
+MOTIF PS00387:	Yes, No.
+MOTIF PS00388:	Yes, No.
+MOTIF PS00389:	Yes, No.
+MOTIF PS00396:	Yes, No.
+MOTIF PS00399:	Yes, No.
+MOTIF PS00402:	Yes, No.
+MOTIF PS00406:	Yes, No.
+MOTIF PS00410:	Yes, No.
+MOTIF PS00411:	Yes, No.
+MOTIF PS00414:	Yes, No.
+MOTIF PS00417:	Yes, No.
+MOTIF PS00422:	Yes, No.
+MOTIF PS00430:	Yes, No.
+MOTIF PS00432:	Yes, No.
+MOTIF PS00433:	Yes, No.
+MOTIF PS00434:	Yes, No.
+MOTIF PS00436:	Yes, No.
+MOTIF PS00442:	Yes, No.
+MOTIF PS00443:	Yes, No.
+MOTIF PS00444:	Yes, No.
+MOTIF PS00445:	Yes, No.
+MOTIF PS00446:	Yes, No.
+MOTIF PS00450:	Yes, No.
+MOTIF PS00453:	Yes, No.
+MOTIF PS00454:	Yes, No.
+MOTIF PS00455:	Yes, No.
+MOTIF PS00460:	Yes, No.
+MOTIF PS00463:	Yes, No.
+MOTIF PS00466:	Yes, No.
+MOTIF PS00469:	Yes, No.
+MOTIF PS00470:	Yes, No.
+MOTIF PS00478:	Yes, No.
+MOTIF PS00479:	Yes, No.
+MOTIF PS00480:	Yes, No.
+MOTIF PS00485:	Yes, No.
+MOTIF PS00486:	Yes, No.
+MOTIF PS00487:	Yes, No.
+MOTIF PS00499:	Yes, No.
+MOTIF PS00501:	Yes, No.
+MOTIF PS00504:	Yes, No.
+MOTIF PS00509:	Yes, No.
+MOTIF PS00510:	Yes, No.
+MOTIF PS00518:	Yes, No.
+MOTIF PS00521:	Yes, No.
+MOTIF PS00526:	Yes, No.
+MOTIF PS00554:	Yes, No.
+MOTIF PS00557:	Yes, No.
+MOTIF PS00564:	Yes, No.
+MOTIF PS00565:	Yes, No.
+MOTIF PS00566:	Yes, No.
+MOTIF PS00572:	Yes, No.
+MOTIF PS00573:	Yes, No.
+MOTIF PS00581:	Yes, No.
+MOTIF PS00583:	Yes, No.
+MOTIF PS00595:	Yes, No.
+MOTIF PS00599:	Yes, No.
+MOTIF PS00600:	Yes, No.
+MOTIF PS00606:	Yes, No.
+MOTIF PS00611:	Yes, No.
+MOTIF PS00615:	Yes, No.
+MOTIF PS00625:	Yes, No.
+MOTIF PS00626:	Yes, No.
+MOTIF PS00627:	Yes, No.
+MOTIF PS00633:	Yes, No.
+MOTIF PS00636:	Yes, No.
+MOTIF PS00637:	Yes, No.
+MOTIF PS00646:	Yes, No.
+MOTIF PS00657:	Yes, No.
+MOTIF PS00658:	Yes, No.
+MOTIF PS00659:	Yes, No.
+MOTIF PS00670:	Yes, No.
+MOTIF PS00674:	Yes, No.
+MOTIF PS00675:	Yes, No.
+MOTIF PS00678:	Yes, No.
+MOTIF PS00680:	Yes, No.
+MOTIF PS00681:	Yes, No.
+MOTIF PS00685:	Yes, No.
+MOTIF PS00686:	Yes, No.
+MOTIF PS00687:	Yes, No.
+MOTIF PS00690:	Yes, No.
+MOTIF PS00697:	Yes, No.
+MOTIF PS00709:	Yes, No.
+MOTIF PS00720:	Yes, No.
+MOTIF PS00723:	Yes, No.
+MOTIF PS00724:	Yes, No.
+MOTIF PS00733:	Yes, No.
+MOTIF PS00735:	Yes, No.
+MOTIF PS00736:	Yes, No.
+MOTIF PS00737:	Yes, No.
+MOTIF PS00741:	Yes, No.
+MOTIF PS00748:	Yes, No.
+MOTIF PS00749:	Yes, No.
+MOTIF PS00750:	Yes, No.
+MOTIF PS00751:	Yes, No.
+MOTIF PS00752:	Yes, No.
+MOTIF PS00753:	Yes, No.
+MOTIF PS00755:	Yes, No.
+MOTIF PS00760:	Yes, No.
+MOTIF PS00761:	Yes, No.
+MOTIF PS00763:	Yes, No.
+MOTIF PS00765:	Yes, No.
+MOTIF PS00770:	Yes, No.
+MOTIF PS00782:	Yes, No.
+MOTIF PS00783:	Yes, No.
+MOTIF PS00796:	Yes, No.
+MOTIF PS00797:	Yes, No.
+MOTIF PS00801:	Yes, No.
+MOTIF PS00802:	Yes, No.
+MOTIF PS00813:	Yes, No.
+MOTIF PS00815:	Yes, No.
+MOTIF PS00816:	Yes, No.
+MOTIF PS00821:	Yes, No.
+MOTIF PS00822:	Yes, No.
+MOTIF PS00824:	Yes, No.
+MOTIF PS00825:	Yes, No.
+MOTIF PS00841:	Yes, No.
+MOTIF PS00842:	Yes, No.
+MOTIF PS00845:	Yes, No.
+MOTIF PS00847:	Yes, No.
+MOTIF PS00854:	Yes, No.
+MOTIF PS00859:	Yes, No.
+MOTIF PS00860:	Yes, No.
+MOTIF PS00865:	Yes, No.
+MOTIF PS00866:	Yes, No.
+MOTIF PS00867:	Yes, No.
+MOTIF PS00868:	Yes, No.
+MOTIF PS00870:	Yes, No.
+MOTIF PS00871:	Yes, No.
+MOTIF PS00888:	Yes, No.
+MOTIF PS00889:	Yes, No.
+MOTIF PS00893:	Yes, No.
+MOTIF PS00901:	Yes, No.
+MOTIF PS00903:	Yes, No.
+MOTIF PS00904:	Yes, No.
+MOTIF PS00905:	Yes, No.
+MOTIF PS00910:	Yes, No.
+MOTIF PS00914:	Yes, No.
+MOTIF PS00915:	Yes, No.
+MOTIF PS00916:	Yes, No.
+MOTIF PS00924:	Yes, No.
+MOTIF PS00927:	Yes, No.
+MOTIF PS00928:	Yes, No.
+MOTIF PS00929:	Yes, No.
+MOTIF PS00933:	Yes, No.
+MOTIF PS00944:	Yes, No.
+MOTIF PS00945:	Yes, No.
+MOTIF PS00951:	Yes, No.
+MOTIF PS00952:	Yes, No.
+MOTIF PS00954:	Yes, No.
+MOTIF PS00955:	Yes, No.
+MOTIF PS00957:	Yes, No.
+MOTIF PS00959:	Yes, No.
+MOTIF PS00961:	Yes, No.
+MOTIF PS00972:	Yes, No.
+MOTIF PS00973:	Yes, No.
+MOTIF PS00975:	Yes, No.
+MOTIF PS00976:	Yes, No.
+MOTIF PS00989:	Yes, No.
+MOTIF PS00990:	Yes, No.
+MOTIF PS00991:	Yes, No.
+MOTIF PS00993:	Yes, No.
+MOTIF PS00997:	Yes, No.
+MOTIF PS00998:	Yes, No.
+MOTIF PS01000:	Yes, No.
+MOTIF PS01001:	Yes, No.
+MOTIF PS01002:	Yes, No.
+MOTIF PS01003:	Yes, No.
+MOTIF PS01013:	Yes, No.
+MOTIF PS01019:	Yes, No.
+MOTIF PS01020:	Yes, No.
+MOTIF PS01021:	Yes, No.
+MOTIF PS01024:	Yes, No.
+MOTIF PS01025:	Yes, No.
+MOTIF PS01030:	Yes, No.
+MOTIF PS01032:	Yes, No.
+MOTIF PS01036:	Yes, No.
+MOTIF PS01042:	Yes, No.
+MOTIF PS01046:	Yes, No.
+MOTIF PS01047:	Yes, No.
+MOTIF PS01067:	Yes, No.
+MOTIF PS01071:	Yes, No.
+MOTIF PS01077:	Yes, No.
+MOTIF PS01082:	Yes, No.
+MOTIF PS01088:	Yes, No.
+MOTIF PS01089:	Yes, No.
+MOTIF PS01101:	Yes, No.
+MOTIF PS01112:	Yes, No.
+MOTIF PS01118:	Yes, No.
+MOTIF PS01119:	Yes, No.
+MOTIF PS01132:	Yes, No.
+MOTIF PS01133:	Yes, No.
+MOTIF PS01145:	Yes, No.
+MOTIF PS01152:	Yes, No.
+MOTIF PS01154:	Yes, No.
+MOTIF PS01159:	Yes, No.
+MOTIF PS01166:	Yes, No.
+MOTIF PS01168:	Yes, No.
+MOTIF PS01175:	Yes, No.
+MOTIF PS01183:	Yes, No.
+MOTIF PS01184:	Yes, No.
+MOTIF PS01186:	Yes, No.
+MOTIF PS01188:	Yes, No.
+MOTIF PS01199:	Yes, No.
+MOTIF PS01202:	Yes, No.
+MOTIF PS01215:	Yes, No.
+MOTIF PS01216:	Yes, No.
+MOTIF PS01223:	Yes, No.
+MOTIF PS01235:	Yes, No.
+MOTIF PS01236:	Yes, No.
+MOTIF PS01239:	Yes, No.
+MOTIF PS01240:	Yes, No.
+MOTIF PS01244:	Yes, No.
+MOTIF PS01247:	Yes, No.
+MOTIF PS01248:	Yes, No.
+MOTIF PS01251:	Yes, No.
+MOTIF PS01256:	Yes, No.
+MOTIF PS01257:	Yes, No.
+MOTIF PS01280:	Yes, No.
+MOTIF PS01281:	Yes, No.
+Chromosome:	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16.
+NUM INTERACTING WITH FUNCTION "CELL GROWTH, CELL DIVISION AND DNA SYNTHESIS     ":	continuous.
+NUM INTERACTING WITH FUNCTION "CELL RESCUE, DEFENSE, CELL DEATH AND AGEING     ":	continuous.
+NUM INTERACTING WITH FUNCTION CELLULAR BIOGENESIS (proteins are not localized to the corresponding organelle)  :	continuous.
+NUM INTERACTING WITH FUNCTION CELLULAR COMMUNICATION/SIGNAL TRANSDUCTION         :	continuous.
+NUM INTERACTING WITH FUNCTION CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle)   :	continuous.
+NUM INTERACTING WITH FUNCTION CELLULAR TRANSPORT AND TRANSPORTMECHANISMS        :	continuous.
+NUM INTERACTING WITH FUNCTION ENERGY           :	continuous.
+NUM INTERACTING WITH FUNCTION IONIC HOMEOSTASIS          :	continuous.
+NUM INTERACTING WITH FUNCTION METABOLISM:	continuous.
+NUM INTERACTING WITH FUNCTION PROTEIN DESTINATION          :	continuous.
+NUM INTERACTING WITH FUNCTION PROTEIN SYNTHESIS          :	continuous.
+NUM INTERACTING WITH FUNCTION TRANSCRIPTION           :	continuous.
+NUM INTERACTING WITH FUNCTION TRANSPORT FACILITATION          :	continuous.
+NUM INTERACTING WITH FUNCTION "TRANSPOSABLE ELEMENTS, VIRAL AND PLASMID PROTEINS      ":	continuous.
+INTERACTING GENE G239476 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239476 Corr:	continuous.
+INTERACTING GENE G234427 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234427 Corr:	continuous.
+INTERACTING GENE G234429 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234429 Corr:	continuous.
+INTERACTING GENE G234430 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234430 Corr:	continuous.
+INTERACTING GENE G239467 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239467 Corr:	continuous.
+INTERACTING GENE G234437 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234437 Corr:	continuous.
+INTERACTING GENE G239438 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239438 Corr:	continuous.
+INTERACTING GENE G234444 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234444 Corr:	continuous.
+INTERACTING GENE G234445 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234445 Corr:	continuous.
+INTERACTING GENE G234446 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234446 Corr:	continuous.
+INTERACTING GENE G234448 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234448 Corr:	continuous.
+INTERACTING GENE G234452 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234452 Corr:	continuous.
+INTERACTING GENE G234455 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234455 Corr:	continuous.
+INTERACTING GENE G234458 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234458 Corr:	continuous.
+INTERACTING GENE G234465 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234465 Corr:	continuous.
+INTERACTING GENE G234468 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234468 Corr:	continuous.
+INTERACTING GENE G234469 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234469 Corr:	continuous.
+INTERACTING GENE G239428 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239428 Corr:	continuous.
+INTERACTING GENE G239420 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239420 Corr:	continuous.
+INTERACTING GENE G234486 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234486 Corr:	continuous.
+INTERACTING GENE G239393 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239393 Corr:	continuous.
+INTERACTING GENE G234495 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234495 Corr:	continuous.
+INTERACTING GENE G234497 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234497 Corr:	continuous.
+INTERACTING GENE G234505 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234505 Corr:	continuous.
+INTERACTING GENE G234509 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234509 Corr:	continuous.
+INTERACTING GENE G239392 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239392 Corr:	continuous.
+INTERACTING GENE G234513 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234513 Corr:	continuous.
+INTERACTING GENE G239341 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239341 Corr:	continuous.
+INTERACTING GENE G234516 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234516 Corr:	continuous.
+INTERACTING GENE G234517 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234517 Corr:	continuous.
+INTERACTING GENE G239321 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239321 Corr:	continuous.
+INTERACTING GENE G234522 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234522 Corr:	continuous.
+INTERACTING GENE G234523 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234523 Corr:	continuous.
+INTERACTING GENE G234525 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234525 Corr:	continuous.
+INTERACTING GENE G234529 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234529 Corr:	continuous.
+INTERACTING GENE G239316 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239316 Corr:	continuous.
+INTERACTING GENE G234533 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234533 Corr:	continuous.
+INTERACTING GENE G239294 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239294 Corr:	continuous.
+INTERACTING GENE G234535 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234535 Corr:	continuous.
+INTERACTING GENE G234538 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234538 Corr:	continuous.
+INTERACTING GENE G234542 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234542 Corr:	continuous.
+INTERACTING GENE G234549 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234549 Corr:	continuous.
+INTERACTING GENE G234553 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234553 Corr:	continuous.
+INTERACTING GENE G234554 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234554 Corr:	continuous.
+INTERACTING GENE G234562 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234562 Corr:	continuous.
+INTERACTING GENE G234563 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234563 Corr:	continuous.
+INTERACTING GENE G234564 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234564 Corr:	continuous.
+INTERACTING GENE G239266 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239266 Corr:	continuous.
+INTERACTING GENE G239247 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239247 Corr:	continuous.
+INTERACTING GENE G234572 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234572 Corr:	continuous.
+INTERACTING GENE G239223 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239223 Corr:	continuous.
+INTERACTING GENE G234575 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234575 Corr:	continuous.
+INTERACTING GENE G239196 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239196 Corr:	continuous.
+INTERACTING GENE G234581 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234581 Corr:	continuous.
+INTERACTING GENE G234586 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234586 Corr:	continuous.
+INTERACTING GENE G234589 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234589 Corr:	continuous.
+INTERACTING GENE G239188 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239188 Corr:	continuous.
+INTERACTING GENE G234591 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234591 Corr:	continuous.
+INTERACTING GENE G239186 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239186 Corr:	continuous.
+INTERACTING GENE G234594 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234594 Corr:	continuous.
+INTERACTING GENE G234603 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234603 Corr:	continuous.
+INTERACTING GENE G234604 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234604 Corr:	continuous.
+INTERACTING GENE G234606 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234606 Corr:	continuous.
+INTERACTING GENE G234610 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234610 Corr:	continuous.
+INTERACTING GENE G239178 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239178 Corr:	continuous.
+INTERACTING GENE G234613 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234613 Corr:	continuous.
+INTERACTING GENE G239123 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239123 Corr:	continuous.
+INTERACTING GENE G239101 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239101 Corr:	continuous.
+INTERACTING GENE G239098 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239098 Corr:	continuous.
+INTERACTING GENE G234630 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234630 Corr:	continuous.
+INTERACTING GENE G239063 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239063 Corr:	continuous.
+INTERACTING GENE G234635 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234635 Corr:	continuous.
+INTERACTING GENE G234636 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234636 Corr:	continuous.
+INTERACTING GENE G234638 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234638 Corr:	continuous.
+INTERACTING GENE G234640 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234640 Corr:	continuous.
+INTERACTING GENE G239048 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239048 Corr:	continuous.
+INTERACTING GENE G234642 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234642 Corr:	continuous.
+INTERACTING GENE G234644 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234644 Corr:	continuous.
+INTERACTING GENE G239037 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239037 Corr:	continuous.
+INTERACTING GENE G239017 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239017 Corr:	continuous.
+INTERACTING GENE G234652 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234652 Corr:	continuous.
+INTERACTING GENE G239010 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239010 Corr:	continuous.
+INTERACTING GENE G234654 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234654 Corr:	continuous.
+INTERACTING GENE G234656 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234656 Corr:	continuous.
+INTERACTING GENE G234659 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234659 Corr:	continuous.
+INTERACTING GENE G234665 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234665 Corr:	continuous.
+INTERACTING GENE G234666 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234666 Corr:	continuous.
+INTERACTING GENE G239008 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239008 Corr:	continuous.
+INTERACTING GENE G234677 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234677 Corr:	continuous.
+INTERACTING GENE G238990 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238990 Corr:	continuous.
+INTERACTING GENE G234681 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234681 Corr:	continuous.
+INTERACTING GENE G238968 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238968 Corr:	continuous.
+INTERACTING GENE G234684 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234684 Corr:	continuous.
+INTERACTING GENE G234687 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234687 Corr:	continuous.
+INTERACTING GENE G238954 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238954 Corr:	continuous.
+INTERACTING GENE G234692 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234692 Corr:	continuous.
+INTERACTING GENE G238946 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238946 Corr:	continuous.
+INTERACTING GENE G234700 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234700 Corr:	continuous.
+INTERACTING GENE G238942 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238942 Corr:	continuous.
+INTERACTING GENE G234702 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234702 Corr:	continuous.
+INTERACTING GENE G238935 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238935 Corr:	continuous.
+INTERACTING GENE G238933 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238933 Corr:	continuous.
+INTERACTING GENE G234715 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234715 Corr:	continuous.
+INTERACTING GENE G234716 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234716 Corr:	continuous.
+INTERACTING GENE G234722 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234722 Corr:	continuous.
+INTERACTING GENE G234725 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234725 Corr:	continuous.
+INTERACTING GENE G238928 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238928 Corr:	continuous.
+INTERACTING GENE G234732 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234732 Corr:	continuous.
+INTERACTING GENE G234733 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234733 Corr:	continuous.
+INTERACTING GENE G234735 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234735 Corr:	continuous.
+INTERACTING GENE G234737 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234737 Corr:	continuous.
+INTERACTING GENE G238916 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238916 Corr:	continuous.
+INTERACTING GENE G238895 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238895 Corr:	continuous.
+INTERACTING GENE G238891 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238891 Corr:	continuous.
+INTERACTING GENE G238885 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238885 Corr:	continuous.
+INTERACTING GENE G234744 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234744 Corr:	continuous.
+INTERACTING GENE G234746 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234746 Corr:	continuous.
+INTERACTING GENE G234749 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234749 Corr:	continuous.
+INTERACTING GENE G238857 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238857 Corr:	continuous.
+INTERACTING GENE G234754 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234754 Corr:	continuous.
+INTERACTING GENE G234756 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234756 Corr:	continuous.
+INTERACTING GENE G238793 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238793 Corr:	continuous.
+INTERACTING GENE G234762 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234762 Corr:	continuous.
+INTERACTING GENE G234763 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234763 Corr:	continuous.
+INTERACTING GENE G234764 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234764 Corr:	continuous.
+INTERACTING GENE G234767 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234767 Corr:	continuous.
+INTERACTING GENE G234768 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234768 Corr:	continuous.
+INTERACTING GENE G234769 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234769 Corr:	continuous.
+INTERACTING GENE G234772 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234772 Corr:	continuous.
+INTERACTING GENE G238789 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238789 Corr:	continuous.
+INTERACTING GENE G234779 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234779 Corr:	continuous.
+INTERACTING GENE G238786 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238786 Corr:	continuous.
+INTERACTING GENE G238760 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238760 Corr:	continuous.
+INTERACTING GENE G234786 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234786 Corr:	continuous.
+INTERACTING GENE G234787 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234787 Corr:	continuous.
+INTERACTING GENE G234788 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234788 Corr:	continuous.
+INTERACTING GENE G238740 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238740 Corr:	continuous.
+INTERACTING GENE G238715 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238715 Corr:	continuous.
+INTERACTING GENE G238704 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238704 Corr:	continuous.
+INTERACTING GENE G238695 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238695 Corr:	continuous.
+INTERACTING GENE G238677 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238677 Corr:	continuous.
+INTERACTING GENE G234804 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234804 Corr:	continuous.
+INTERACTING GENE G238643 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238643 Corr:	continuous.
+INTERACTING GENE G234811 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234811 Corr:	continuous.
+INTERACTING GENE G234812 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234812 Corr:	continuous.
+INTERACTING GENE G238640 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238640 Corr:	continuous.
+INTERACTING GENE G234823 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234823 Corr:	continuous.
+INTERACTING GENE G234824 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234824 Corr:	continuous.
+INTERACTING GENE G234829 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234829 Corr:	continuous.
+INTERACTING GENE G234830 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234830 Corr:	continuous.
+INTERACTING GENE G234831 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234831 Corr:	continuous.
+INTERACTING GENE G238637 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238637 Corr:	continuous.
+INTERACTING GENE G238621 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238621 Corr:	continuous.
+INTERACTING GENE G234839 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234839 Corr:	continuous.
+INTERACTING GENE G238610 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238610 Corr:	continuous.
+INTERACTING GENE G234849 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234849 Corr:	continuous.
+INTERACTING GENE G234850 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234850 Corr:	continuous.
+INTERACTING GENE G234854 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234854 Corr:	continuous.
+INTERACTING GENE G234858 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234858 Corr:	continuous.
+INTERACTING GENE G234860 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234860 Corr:	continuous.
+INTERACTING GENE G238567 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238567 Corr:	continuous.
+INTERACTING GENE G234862 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234862 Corr:	continuous.
+INTERACTING GENE G234863 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234863 Corr:	continuous.
+INTERACTING GENE G234865 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234865 Corr:	continuous.
+INTERACTING GENE G234867 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234867 Corr:	continuous.
+INTERACTING GENE G234868 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234868 Corr:	continuous.
+INTERACTING GENE G234876 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234876 Corr:	continuous.
+INTERACTING GENE G234878 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234878 Corr:	continuous.
+INTERACTING GENE G234880 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234880 Corr:	continuous.
+INTERACTING GENE G238564 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238564 Corr:	continuous.
+INTERACTING GENE G234882 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234882 Corr:	continuous.
+INTERACTING GENE G234890 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234890 Corr:	continuous.
+INTERACTING GENE G234894 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234894 Corr:	continuous.
+INTERACTING GENE G234895 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234895 Corr:	continuous.
+INTERACTING GENE G238540 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238540 Corr:	continuous.
+INTERACTING GENE G234906 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234906 Corr:	continuous.
+INTERACTING GENE G234907 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234907 Corr:	continuous.
+INTERACTING GENE G234908 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234908 Corr:	continuous.
+INTERACTING GENE G234909 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234909 Corr:	continuous.
+INTERACTING GENE G234910 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234910 Corr:	continuous.
+INTERACTING GENE G234914 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234914 Corr:	continuous.
+INTERACTING GENE G234915 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234915 Corr:	continuous.
+INTERACTING GENE G234918 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234918 Corr:	continuous.
+INTERACTING GENE G238527 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238527 Corr:	continuous.
+INTERACTING GENE G234926 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234926 Corr:	continuous.
+INTERACTING GENE G238510 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238510 Corr:	continuous.
+INTERACTING GENE G234932 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234932 Corr:	continuous.
+INTERACTING GENE G234933 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234933 Corr:	continuous.
+INTERACTING GENE G234934 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234934 Corr:	continuous.
+INTERACTING GENE G234935 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234935 Corr:	continuous.
+INTERACTING GENE G234936 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234936 Corr:	continuous.
+INTERACTING GENE G238498 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238498 Corr:	continuous.
+INTERACTING GENE G234943 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234943 Corr:	continuous.
+INTERACTING GENE G238472 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238472 Corr:	continuous.
+INTERACTING GENE G234946 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234946 Corr:	continuous.
+INTERACTING GENE G234949 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234949 Corr:	continuous.
+INTERACTING GENE G238448 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238448 Corr:	continuous.
+INTERACTING GENE G234953 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234953 Corr:	continuous.
+INTERACTING GENE G234954 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234954 Corr:	continuous.
+INTERACTING GENE G234955 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234955 Corr:	continuous.
+INTERACTING GENE G238415 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238415 Corr:	continuous.
+INTERACTING GENE G234959 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234959 Corr:	continuous.
+INTERACTING GENE G234960 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234960 Corr:	continuous.
+INTERACTING GENE G234964 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234964 Corr:	continuous.
+INTERACTING GENE G238392 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238392 Corr:	continuous.
+INTERACTING GENE G234967 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234967 Corr:	continuous.
+INTERACTING GENE G238391 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238391 Corr:	continuous.
+INTERACTING GENE G234973 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234973 Corr:	continuous.
+INTERACTING GENE G238387 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238387 Corr:	continuous.
+INTERACTING GENE G234975 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234975 Corr:	continuous.
+INTERACTING GENE G238307 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238307 Corr:	continuous.
+INTERACTING GENE G234980 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234980 Corr:	continuous.
+INTERACTING GENE G234983 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234983 Corr:	continuous.
+INTERACTING GENE G238295 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238295 Corr:	continuous.
+INTERACTING GENE G234993 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234993 Corr:	continuous.
+INTERACTING GENE G234994 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234994 Corr:	continuous.
+INTERACTING GENE G238282 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238282 Corr:	continuous.
+INTERACTING GENE G235004 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235004 Corr:	continuous.
+INTERACTING GENE G235005 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235005 Corr:	continuous.
+INTERACTING GENE G235006 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235006 Corr:	continuous.
+INTERACTING GENE G240504 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240504 Corr:	continuous.
+INTERACTING GENE G234064 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234064 Corr:	continuous.
+INTERACTING GENE G234065 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234065 Corr:	continuous.
+INTERACTING GENE G234070 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234070 Corr:	continuous.
+INTERACTING GENE G234073 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234073 Corr:	continuous.
+INTERACTING GENE G234074 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234074 Corr:	continuous.
+INTERACTING GENE G234076 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234076 Corr:	continuous.
+INTERACTING GENE G240494 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240494 Corr:	continuous.
+INTERACTING GENE G234084 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234084 Corr:	continuous.
+INTERACTING GENE G234085 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234085 Corr:	continuous.
+INTERACTING GENE G240490 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240490 Corr:	continuous.
+INTERACTING GENE G240468 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240468 Corr:	continuous.
+INTERACTING GENE G234089 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234089 Corr:	continuous.
+INTERACTING GENE G234093 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234093 Corr:	continuous.
+INTERACTING GENE G240410 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240410 Corr:	continuous.
+INTERACTING GENE G234096 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234096 Corr:	continuous.
+INTERACTING GENE G240400 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240400 Corr:	continuous.
+INTERACTING GENE G234100 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234100 Corr:	continuous.
+INTERACTING GENE G234101 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234101 Corr:	continuous.
+INTERACTING GENE G234102 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234102 Corr:	continuous.
+INTERACTING GENE G234103 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234103 Corr:	continuous.
+INTERACTING GENE G234106 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234106 Corr:	continuous.
+INTERACTING GENE G234107 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234107 Corr:	continuous.
+INTERACTING GENE G234108 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234108 Corr:	continuous.
+INTERACTING GENE G234109 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234109 Corr:	continuous.
+INTERACTING GENE G240346 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240346 Corr:	continuous.
+INTERACTING GENE G240337 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240337 Corr:	continuous.
+INTERACTING GENE G234122 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234122 Corr:	continuous.
+INTERACTING GENE G234123 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234123 Corr:	continuous.
+INTERACTING GENE G234124 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234124 Corr:	continuous.
+INTERACTING GENE G240323 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240323 Corr:	continuous.
+INTERACTING GENE G234126 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234126 Corr:	continuous.
+INTERACTING GENE G234128 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234128 Corr:	continuous.
+INTERACTING GENE G234131 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234131 Corr:	continuous.
+INTERACTING GENE G240303 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240303 Corr:	continuous.
+INTERACTING GENE G234139 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234139 Corr:	continuous.
+INTERACTING GENE G240301 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240301 Corr:	continuous.
+INTERACTING GENE G234141 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234141 Corr:	continuous.
+INTERACTING GENE G240292 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240292 Corr:	continuous.
+INTERACTING GENE G240271 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240271 Corr:	continuous.
+INTERACTING GENE G234167 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234167 Corr:	continuous.
+INTERACTING GENE G234169 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234169 Corr:	continuous.
+INTERACTING GENE G234170 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234170 Corr:	continuous.
+INTERACTING GENE G240099 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240099 Corr:	continuous.
+INTERACTING GENE G234177 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234177 Corr:	continuous.
+INTERACTING GENE G234178 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234178 Corr:	continuous.
+INTERACTING GENE G240065 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240065 Corr:	continuous.
+INTERACTING GENE G240048 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240048 Corr:	continuous.
+INTERACTING GENE G234185 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234185 Corr:	continuous.
+INTERACTING GENE G240043 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240043 Corr:	continuous.
+INTERACTING GENE G234191 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234191 Corr:	continuous.
+INTERACTING GENE G234194 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234194 Corr:	continuous.
+INTERACTING GENE G234197 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234197 Corr:	continuous.
+INTERACTING GENE G240032 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240032 Corr:	continuous.
+INTERACTING GENE G234201 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234201 Corr:	continuous.
+INTERACTING GENE G234202 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234202 Corr:	continuous.
+INTERACTING GENE G240030 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240030 Corr:	continuous.
+INTERACTING GENE G234205 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234205 Corr:	continuous.
+INTERACTING GENE G234206 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234206 Corr:	continuous.
+INTERACTING GENE G234212 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234212 Corr:	continuous.
+INTERACTING GENE G240017 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240017 Corr:	continuous.
+INTERACTING GENE G234214 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234214 Corr:	continuous.
+INTERACTING GENE G240012 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240012 Corr:	continuous.
+INTERACTING GENE G239986 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239986 Corr:	continuous.
+INTERACTING GENE G234217 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234217 Corr:	continuous.
+INTERACTING GENE G234222 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234222 Corr:	continuous.
+INTERACTING GENE G239976 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239976 Corr:	continuous.
+INTERACTING GENE G234227 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234227 Corr:	continuous.
+INTERACTING GENE G234229 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234229 Corr:	continuous.
+INTERACTING GENE G239975 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239975 Corr:	continuous.
+INTERACTING GENE G234232 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234232 Corr:	continuous.
+INTERACTING GENE G234234 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234234 Corr:	continuous.
+INTERACTING GENE G234235 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234235 Corr:	continuous.
+INTERACTING GENE G234240 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234240 Corr:	continuous.
+INTERACTING GENE G239966 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239966 Corr:	continuous.
+INTERACTING GENE G234248 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234248 Corr:	continuous.
+INTERACTING GENE G239965 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239965 Corr:	continuous.
+INTERACTING GENE G239952 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239952 Corr:	continuous.
+INTERACTING GENE G239950 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239950 Corr:	continuous.
+INTERACTING GENE G234259 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234259 Corr:	continuous.
+INTERACTING GENE G234263 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234263 Corr:	continuous.
+INTERACTING GENE G234265 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234265 Corr:	continuous.
+INTERACTING GENE G239882 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239882 Corr:	continuous.
+INTERACTING GENE G239877 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239877 Corr:	continuous.
+INTERACTING GENE G234270 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234270 Corr:	continuous.
+INTERACTING GENE G234271 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234271 Corr:	continuous.
+INTERACTING GENE G239853 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239853 Corr:	continuous.
+INTERACTING GENE G234275 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234275 Corr:	continuous.
+INTERACTING GENE G234276 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234276 Corr:	continuous.
+INTERACTING GENE G234277 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234277 Corr:	continuous.
+INTERACTING GENE G239837 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239837 Corr:	continuous.
+INTERACTING GENE G234285 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234285 Corr:	continuous.
+INTERACTING GENE G234286 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234286 Corr:	continuous.
+INTERACTING GENE G239832 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239832 Corr:	continuous.
+INTERACTING GENE G234290 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234290 Corr:	continuous.
+INTERACTING GENE G234293 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234293 Corr:	continuous.
+INTERACTING GENE G234296 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234296 Corr:	continuous.
+INTERACTING GENE G239804 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239804 Corr:	continuous.
+INTERACTING GENE G239789 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239789 Corr:	continuous.
+INTERACTING GENE G234300 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234300 Corr:	continuous.
+INTERACTING GENE G234312 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234312 Corr:	continuous.
+INTERACTING GENE G239782 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239782 Corr:	continuous.
+INTERACTING GENE G234317 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234317 Corr:	continuous.
+INTERACTING GENE G234323 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234323 Corr:	continuous.
+INTERACTING GENE G234326 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234326 Corr:	continuous.
+INTERACTING GENE G234330 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234330 Corr:	continuous.
+INTERACTING GENE G239777 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239777 Corr:	continuous.
+INTERACTING GENE G234334 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234334 Corr:	continuous.
+INTERACTING GENE G239770 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239770 Corr:	continuous.
+INTERACTING GENE G234341 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234341 Corr:	continuous.
+INTERACTING GENE G234344 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234344 Corr:	continuous.
+INTERACTING GENE G234347 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234347 Corr:	continuous.
+INTERACTING GENE G234359 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234359 Corr:	continuous.
+INTERACTING GENE G234360 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234360 Corr:	continuous.
+INTERACTING GENE G234361 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234361 Corr:	continuous.
+INTERACTING GENE G239733 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239733 Corr:	continuous.
+INTERACTING GENE G239711 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239711 Corr:	continuous.
+INTERACTING GENE G234368 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234368 Corr:	continuous.
+INTERACTING GENE G234369 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234369 Corr:	continuous.
+INTERACTING GENE G234371 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234371 Corr:	continuous.
+INTERACTING GENE G239673 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239673 Corr:	continuous.
+INTERACTING GENE G239672 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239672 Corr:	continuous.
+INTERACTING GENE G234381 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234381 Corr:	continuous.
+INTERACTING GENE G234382 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234382 Corr:	continuous.
+INTERACTING GENE G239653 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239653 Corr:	continuous.
+INTERACTING GENE G239640 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239640 Corr:	continuous.
+INTERACTING GENE G234392 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234392 Corr:	continuous.
+INTERACTING GENE G234393 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234393 Corr:	continuous.
+INTERACTING GENE G239628 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239628 Corr:	continuous.
+INTERACTING GENE G234400 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234400 Corr:	continuous.
+INTERACTING GENE G234402 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234402 Corr:	continuous.
+INTERACTING GENE G239626 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239626 Corr:	continuous.
+INTERACTING GENE G234406 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234406 Corr:	continuous.
+INTERACTING GENE G239544 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239544 Corr:	continuous.
+INTERACTING GENE G239536 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239536 Corr:	continuous.
+INTERACTING GENE G234413 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234413 Corr:	continuous.
+INTERACTING GENE G239523 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239523 Corr:	continuous.
+INTERACTING GENE G234415 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234415 Corr:	continuous.
+INTERACTING GENE G234416 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234416 Corr:	continuous.
+INTERACTING GENE G234418 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234418 Corr:	continuous.
+INTERACTING GENE G239488 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239488 Corr:	continuous.
+INTERACTING GENE G235011 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235011 Corr:	continuous.
+INTERACTING GENE G235012 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235012 Corr:	continuous.
+INTERACTING GENE G235014 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235014 Corr:	continuous.
+INTERACTING GENE G235019 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235019 Corr:	continuous.
+INTERACTING GENE G235025 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235025 Corr:	continuous.
+INTERACTING GENE G235027 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235027 Corr:	continuous.
+INTERACTING GENE G238238 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238238 Corr:	continuous.
+INTERACTING GENE G235034 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235034 Corr:	continuous.
+INTERACTING GENE G235035 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235035 Corr:	continuous.
+INTERACTING GENE G235042 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235042 Corr:	continuous.
+INTERACTING GENE G235043 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235043 Corr:	continuous.
+INTERACTING GENE G235044 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235044 Corr:	continuous.
+INTERACTING GENE G238235 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238235 Corr:	continuous.
+INTERACTING GENE G238234 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238234 Corr:	continuous.
+INTERACTING GENE G235052 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235052 Corr:	continuous.
+INTERACTING GENE G235054 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235054 Corr:	continuous.
+INTERACTING GENE G238195 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238195 Corr:	continuous.
+INTERACTING GENE G235059 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235059 Corr:	continuous.
+INTERACTING GENE G235065 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235065 Corr:	continuous.
+INTERACTING GENE G238191 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238191 Corr:	continuous.
+INTERACTING GENE G235075 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235075 Corr:	continuous.
+INTERACTING GENE G235077 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235077 Corr:	continuous.
+INTERACTING GENE G235080 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235080 Corr:	continuous.
+INTERACTING GENE G238190 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238190 Corr:	continuous.
+INTERACTING GENE G238172 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238172 Corr:	continuous.
+INTERACTING GENE G235086 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235086 Corr:	continuous.
+INTERACTING GENE G238149 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238149 Corr:	continuous.
+INTERACTING GENE G235095 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235095 Corr:	continuous.
+INTERACTING GENE G238136 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238136 Corr:	continuous.
+INTERACTING GENE G238117 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238117 Corr:	continuous.
+INTERACTING GENE G238102 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238102 Corr:	continuous.
+INTERACTING GENE G235099 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235099 Corr:	continuous.
+INTERACTING GENE G235101 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235101 Corr:	continuous.
+INTERACTING GENE G238069 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238069 Corr:	continuous.
+INTERACTING GENE G235105 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235105 Corr:	continuous.
+INTERACTING GENE G238061 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238061 Corr:	continuous.
+INTERACTING GENE G235107 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235107 Corr:	continuous.
+INTERACTING GENE G238049 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238049 Corr:	continuous.
+INTERACTING GENE G238035 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238035 Corr:	continuous.
+INTERACTING GENE G238033 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238033 Corr:	continuous.
+INTERACTING GENE G238024 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238024 Corr:	continuous.
+INTERACTING GENE G238014 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238014 Corr:	continuous.
+INTERACTING GENE G237982 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237982 Corr:	continuous.
+INTERACTING GENE G237969 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237969 Corr:	continuous.
+INTERACTING GENE G235123 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235123 Corr:	continuous.
+INTERACTING GENE G235127 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235127 Corr:	continuous.
+INTERACTING GENE G235128 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235128 Corr:	continuous.
+INTERACTING GENE G235129 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235129 Corr:	continuous.
+INTERACTING GENE G235130 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235130 Corr:	continuous.
+INTERACTING GENE G235131 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235131 Corr:	continuous.
+INTERACTING GENE G235132 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235132 Corr:	continuous.
+INTERACTING GENE G235133 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235133 Corr:	continuous.
+INTERACTING GENE G235134 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235134 Corr:	continuous.
+INTERACTING GENE G235135 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235135 Corr:	continuous.
+INTERACTING GENE G235136 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235136 Corr:	continuous.
+INTERACTING GENE G235137 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235137 Corr:	continuous.
+INTERACTING GENE G235138 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235138 Corr:	continuous.
+INTERACTING GENE G235142 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235142 Corr:	continuous.
+INTERACTING GENE G235143 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235143 Corr:	continuous.
+INTERACTING GENE G235145 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235145 Corr:	continuous.
+INTERACTING GENE G237945 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237945 Corr:	continuous.
+INTERACTING GENE G237936 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237936 Corr:	continuous.
+INTERACTING GENE G235157 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235157 Corr:	continuous.
+INTERACTING GENE G235158 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235158 Corr:	continuous.
+INTERACTING GENE G235159 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235159 Corr:	continuous.
+INTERACTING GENE G237916 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237916 Corr:	continuous.
+INTERACTING GENE G235161 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235161 Corr:	continuous.
+INTERACTING GENE G235163 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235163 Corr:	continuous.
+INTERACTING GENE G235165 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235165 Corr:	continuous.
+INTERACTING GENE G237896 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237896 Corr:	continuous.
+INTERACTING GENE G235170 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235170 Corr:	continuous.
+INTERACTING GENE G235171 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235171 Corr:	continuous.
+INTERACTING GENE G235172 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235172 Corr:	continuous.
+INTERACTING GENE G235173 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235173 Corr:	continuous.
+INTERACTING GENE G237892 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237892 Corr:	continuous.
+INTERACTING GENE G235177 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235177 Corr:	continuous.
+INTERACTING GENE G237884 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237884 Corr:	continuous.
+INTERACTING GENE G235181 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235181 Corr:	continuous.
+INTERACTING GENE G235182 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235182 Corr:	continuous.
+INTERACTING GENE G237879 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237879 Corr:	continuous.
+INTERACTING GENE G235184 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235184 Corr:	continuous.
+INTERACTING GENE G235185 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235185 Corr:	continuous.
+INTERACTING GENE G237865 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237865 Corr:	continuous.
+INTERACTING GENE G235187 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235187 Corr:	continuous.
+INTERACTING GENE G235188 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235188 Corr:	continuous.
+INTERACTING GENE G235189 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235189 Corr:	continuous.
+INTERACTING GENE G235191 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235191 Corr:	continuous.
+INTERACTING GENE G235200 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235200 Corr:	continuous.
+INTERACTING GENE G235201 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235201 Corr:	continuous.
+INTERACTING GENE G235204 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235204 Corr:	continuous.
+INTERACTING GENE G235205 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235205 Corr:	continuous.
+INTERACTING GENE G235207 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235207 Corr:	continuous.
+INTERACTING GENE G237857 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237857 Corr:	continuous.
+INTERACTING GENE G235213 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235213 Corr:	continuous.
+INTERACTING GENE G235214 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235214 Corr:	continuous.
+INTERACTING GENE G237845 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237845 Corr:	continuous.
+INTERACTING GENE G235216 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235216 Corr:	continuous.
+INTERACTING GENE G237843 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237843 Corr:	continuous.
+INTERACTING GENE G235222 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235222 Corr:	continuous.
+INTERACTING GENE G237833 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237833 Corr:	continuous.
+INTERACTING GENE G237824 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237824 Corr:	continuous.
+INTERACTING GENE G235225 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235225 Corr:	continuous.
+INTERACTING GENE G235228 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235228 Corr:	continuous.
+INTERACTING GENE G235229 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235229 Corr:	continuous.
+INTERACTING GENE G235231 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235231 Corr:	continuous.
+INTERACTING GENE G237803 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237803 Corr:	continuous.
+INTERACTING GENE G237778 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237778 Corr:	continuous.
+INTERACTING GENE G235234 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235234 Corr:	continuous.
+INTERACTING GENE G235235 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235235 Corr:	continuous.
+INTERACTING GENE G237760 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237760 Corr:	continuous.
+INTERACTING GENE G237743 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237743 Corr:	continuous.
+INTERACTING GENE G235239 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235239 Corr:	continuous.
+INTERACTING GENE G235240 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235240 Corr:	continuous.
+INTERACTING GENE G235241 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235241 Corr:	continuous.
+INTERACTING GENE G235242 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235242 Corr:	continuous.
+INTERACTING GENE G235243 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235243 Corr:	continuous.
+INTERACTING GENE G235244 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235244 Corr:	continuous.
+INTERACTING GENE G235245 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235245 Corr:	continuous.
+INTERACTING GENE G235246 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235246 Corr:	continuous.
+INTERACTING GENE G235247 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235247 Corr:	continuous.
+INTERACTING GENE G235248 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235248 Corr:	continuous.
+INTERACTING GENE G235250 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235250 Corr:	continuous.
+INTERACTING GENE G235252 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235252 Corr:	continuous.
+INTERACTING GENE G237732 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237732 Corr:	continuous.
+INTERACTING GENE G237702 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237702 Corr:	continuous.
+INTERACTING GENE G235257 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235257 Corr:	continuous.
+INTERACTING GENE G235259 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235259 Corr:	continuous.
+INTERACTING GENE G235261 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235261 Corr:	continuous.
+INTERACTING GENE G235264 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235264 Corr:	continuous.
+INTERACTING GENE G235265 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235265 Corr:	continuous.
+INTERACTING GENE G235266 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235266 Corr:	continuous.
+INTERACTING GENE G237674 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237674 Corr:	continuous.
+INTERACTING GENE G235271 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235271 Corr:	continuous.
+INTERACTING GENE G235272 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235272 Corr:	continuous.
+INTERACTING GENE G235273 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235273 Corr:	continuous.
+INTERACTING GENE G235274 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235274 Corr:	continuous.
+INTERACTING GENE G237663 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237663 Corr:	continuous.
+INTERACTING GENE G237661 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237661 Corr:	continuous.
+INTERACTING GENE G235277 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235277 Corr:	continuous.
+INTERACTING GENE G235278 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235278 Corr:	continuous.
+INTERACTING GENE G235279 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235279 Corr:	continuous.
+INTERACTING GENE G235281 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235281 Corr:	continuous.
+INTERACTING GENE G237630 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237630 Corr:	continuous.
+INTERACTING GENE G235285 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235285 Corr:	continuous.
+INTERACTING GENE G235287 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235287 Corr:	continuous.
+INTERACTING GENE G235288 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235288 Corr:	continuous.
+INTERACTING GENE G237624 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237624 Corr:	continuous.
+INTERACTING GENE G235293 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235293 Corr:	continuous.
+INTERACTING GENE G235294 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235294 Corr:	continuous.
+INTERACTING GENE G235297 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235297 Corr:	continuous.
+INTERACTING GENE G237617 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237617 Corr:	continuous.
+INTERACTING GENE G235300 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235300 Corr:	continuous.
+INTERACTING GENE G235301 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235301 Corr:	continuous.
+INTERACTING GENE G235302 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235302 Corr:	continuous.
+INTERACTING GENE G235303 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235303 Corr:	continuous.
+INTERACTING GENE G237598 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237598 Corr:	continuous.
+INTERACTING GENE G235307 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235307 Corr:	continuous.
+INTERACTING GENE G235309 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235309 Corr:	continuous.
+INTERACTING GENE G235310 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235310 Corr:	continuous.
+INTERACTING GENE G237594 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237594 Corr:	continuous.
+INTERACTING GENE G235312 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235312 Corr:	continuous.
+INTERACTING GENE G235313 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235313 Corr:	continuous.
+INTERACTING GENE G237577 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237577 Corr:	continuous.
+INTERACTING GENE G235317 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235317 Corr:	continuous.
+INTERACTING GENE G237575 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237575 Corr:	continuous.
+INTERACTING GENE G237561 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237561 Corr:	continuous.
+INTERACTING GENE G235324 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235324 Corr:	continuous.
+INTERACTING GENE G237524 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237524 Corr:	continuous.
+INTERACTING GENE G235326 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235326 Corr:	continuous.
+INTERACTING GENE G235327 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235327 Corr:	continuous.
+INTERACTING GENE G237509 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237509 Corr:	continuous.
+INTERACTING GENE G235329 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235329 Corr:	continuous.
+INTERACTING GENE G235331 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235331 Corr:	continuous.
+INTERACTING GENE G235332 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235332 Corr:	continuous.
+INTERACTING GENE G235334 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235334 Corr:	continuous.
+INTERACTING GENE G235335 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235335 Corr:	continuous.
+INTERACTING GENE G235336 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235336 Corr:	continuous.
+INTERACTING GENE G237495 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237495 Corr:	continuous.
+INTERACTING GENE G237469 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237469 Corr:	continuous.
+INTERACTING GENE G235340 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235340 Corr:	continuous.
+INTERACTING GENE G235344 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235344 Corr:	continuous.
+INTERACTING GENE G235345 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235345 Corr:	continuous.
+INTERACTING GENE G235348 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235348 Corr:	continuous.
+INTERACTING GENE G235349 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235349 Corr:	continuous.
+INTERACTING GENE G235350 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235350 Corr:	continuous.
+INTERACTING GENE G237467 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237467 Corr:	continuous.
+INTERACTING GENE G237463 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237463 Corr:	continuous.
+INTERACTING GENE G237391 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237391 Corr:	continuous.
+INTERACTING GENE G237345 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237345 Corr:	continuous.
+INTERACTING GENE G235357 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235357 Corr:	continuous.
+INTERACTING GENE G235358 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235358 Corr:	continuous.
+INTERACTING GENE G235359 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235359 Corr:	continuous.
+INTERACTING GENE G237335 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237335 Corr:	continuous.
+INTERACTING GENE G235363 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235363 Corr:	continuous.
+INTERACTING GENE G235366 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235366 Corr:	continuous.
+INTERACTING GENE G237333 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237333 Corr:	continuous.
+INTERACTING GENE G237261 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237261 Corr:	continuous.
+INTERACTING GENE G235371 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235371 Corr:	continuous.
+INTERACTING GENE G235372 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235372 Corr:	continuous.
+INTERACTING GENE G235375 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235375 Corr:	continuous.
+INTERACTING GENE G237243 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237243 Corr:	continuous.
+INTERACTING GENE G237228 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237228 Corr:	continuous.
+INTERACTING GENE G235379 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235379 Corr:	continuous.
+INTERACTING GENE G235380 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235380 Corr:	continuous.
+INTERACTING GENE G235381 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235381 Corr:	continuous.
+INTERACTING GENE G235383 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235383 Corr:	continuous.
+INTERACTING GENE G237213 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237213 Corr:	continuous.
+INTERACTING GENE G235386 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235386 Corr:	continuous.
+INTERACTING GENE G237203 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237203 Corr:	continuous.
+INTERACTING GENE G235388 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235388 Corr:	continuous.
+INTERACTING GENE G237160 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237160 Corr:	continuous.
+INTERACTING GENE G235390 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235390 Corr:	continuous.
+INTERACTING GENE G235391 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235391 Corr:	continuous.
+INTERACTING GENE G237142 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237142 Corr:	continuous.
+INTERACTING GENE G237140 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237140 Corr:	continuous.
+INTERACTING GENE G235395 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235395 Corr:	continuous.
+INTERACTING GENE G235398 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235398 Corr:	continuous.
+INTERACTING GENE G235400 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235400 Corr:	continuous.
+INTERACTING GENE G237134 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237134 Corr:	continuous.
+INTERACTING GENE G235403 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235403 Corr:	continuous.
+INTERACTING GENE G235404 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235404 Corr:	continuous.
+INTERACTING GENE G237123 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237123 Corr:	continuous.
+INTERACTING GENE G235407 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235407 Corr:	continuous.
+INTERACTING GENE G235408 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235408 Corr:	continuous.
+INTERACTING GENE G237120 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237120 Corr:	continuous.
+INTERACTING GENE G235417 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235417 Corr:	continuous.
+INTERACTING GENE G235419 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235419 Corr:	continuous.
+INTERACTING GENE G237105 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237105 Corr:	continuous.
+INTERACTING GENE G237038 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237038 Corr:	continuous.
+INTERACTING GENE G235425 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235425 Corr:	continuous.
+INTERACTING GENE G235426 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235426 Corr:	continuous.
+INTERACTING GENE G235434 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235434 Corr:	continuous.
+INTERACTING GENE G235435 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235435 Corr:	continuous.
+INTERACTING GENE G235436 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235436 Corr:	continuous.
+INTERACTING GENE G235438 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235438 Corr:	continuous.
+INTERACTING GENE G235439 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235439 Corr:	continuous.
+INTERACTING GENE G237021 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237021 Corr:	continuous.
+INTERACTING GENE G235442 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235442 Corr:	continuous.
+INTERACTING GENE G236991 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236991 Corr:	continuous.
+INTERACTING GENE G235447 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235447 Corr:	continuous.
+INTERACTING GENE G235448 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235448 Corr:	continuous.
+INTERACTING GENE G235450 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235450 Corr:	continuous.
+INTERACTING GENE G235453 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235453 Corr:	continuous.
+INTERACTING GENE G236965 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236965 Corr:	continuous.
+INTERACTING GENE G235457 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235457 Corr:	continuous.
+INTERACTING GENE G235459 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235459 Corr:	continuous.
+INTERACTING GENE G235462 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235462 Corr:	continuous.
+INTERACTING GENE G235463 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235463 Corr:	continuous.
+INTERACTING GENE G235464 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235464 Corr:	continuous.
+INTERACTING GENE G236954 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236954 Corr:	continuous.
+INTERACTING GENE G235467 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235467 Corr:	continuous.
+INTERACTING GENE G235468 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235468 Corr:	continuous.
+INTERACTING GENE G235469 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235469 Corr:	continuous.
+INTERACTING GENE G235471 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235471 Corr:	continuous.
+INTERACTING GENE G235474 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235474 Corr:	continuous.
+INTERACTING GENE G235475 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235475 Corr:	continuous.
+INTERACTING GENE G236933 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236933 Corr:	continuous.
+INTERACTING GENE G235477 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235477 Corr:	continuous.
+INTERACTING GENE G235478 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235478 Corr:	continuous.
+INTERACTING GENE G235479 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235479 Corr:	continuous.
+INTERACTING GENE G235480 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235480 Corr:	continuous.
+INTERACTING GENE G235482 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235482 Corr:	continuous.
+INTERACTING GENE G235485 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235485 Corr:	continuous.
+INTERACTING GENE G235486 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235486 Corr:	continuous.
+INTERACTING GENE G236913 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236913 Corr:	continuous.
+INTERACTING GENE G236895 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236895 Corr:	continuous.
+INTERACTING GENE G235489 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235489 Corr:	continuous.
+INTERACTING GENE G235490 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235490 Corr:	continuous.
+INTERACTING GENE G236869 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236869 Corr:	continuous.
+INTERACTING GENE G235495 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235495 Corr:	continuous.
+INTERACTING GENE G235496 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235496 Corr:	continuous.
+INTERACTING GENE G235499 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235499 Corr:	continuous.
+INTERACTING GENE G235500 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235500 Corr:	continuous.
+INTERACTING GENE G235502 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235502 Corr:	continuous.
+INTERACTING GENE G236825 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236825 Corr:	continuous.
+INTERACTING GENE G236817 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236817 Corr:	continuous.
+INTERACTING GENE G235506 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235506 Corr:	continuous.
+INTERACTING GENE G236745 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236745 Corr:	continuous.
+INTERACTING GENE G235508 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235508 Corr:	continuous.
+INTERACTING GENE G235510 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235510 Corr:	continuous.
+INTERACTING GENE G236733 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236733 Corr:	continuous.
+INTERACTING GENE G235513 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235513 Corr:	continuous.
+INTERACTING GENE G235514 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235514 Corr:	continuous.
+INTERACTING GENE G235515 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235515 Corr:	continuous.
+INTERACTING GENE G235516 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235516 Corr:	continuous.
+INTERACTING GENE G236730 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236730 Corr:	continuous.
+INTERACTING GENE G235518 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235518 Corr:	continuous.
+INTERACTING GENE G235519 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235519 Corr:	continuous.
+INTERACTING GENE G236702 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236702 Corr:	continuous.
+INTERACTING GENE G236701 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236701 Corr:	continuous.
+INTERACTING GENE G235528 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235528 Corr:	continuous.
+INTERACTING GENE G235529 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235529 Corr:	continuous.
+INTERACTING GENE G235530 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235530 Corr:	continuous.
+INTERACTING GENE G235532 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235532 Corr:	continuous.
+INTERACTING GENE G236683 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236683 Corr:	continuous.
+INTERACTING GENE G235535 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235535 Corr:	continuous.
+INTERACTING GENE G236626 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236626 Corr:	continuous.
+INTERACTING GENE G236607 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236607 Corr:	continuous.
+INTERACTING GENE G235539 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235539 Corr:	continuous.
+INTERACTING GENE G236589 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236589 Corr:	continuous.
+INTERACTING GENE G235542 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235542 Corr:	continuous.
+INTERACTING GENE G235544 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235544 Corr:	continuous.
+INTERACTING GENE G235546 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235546 Corr:	continuous.
+INTERACTING GENE G236578 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236578 Corr:	continuous.
+INTERACTING GENE G235550 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235550 Corr:	continuous.
+INTERACTING GENE G235558 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235558 Corr:	continuous.
+INTERACTING GENE G235559 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235559 Corr:	continuous.
+INTERACTING GENE G235561 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235561 Corr:	continuous.
+INTERACTING GENE G236576 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236576 Corr:	continuous.
+INTERACTING GENE G235563 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235563 Corr:	continuous.
+INTERACTING GENE G235564 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235564 Corr:	continuous.
+INTERACTING GENE G236546 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236546 Corr:	continuous.
+INTERACTING GENE G235566 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235566 Corr:	continuous.
+INTERACTING GENE G236509 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236509 Corr:	continuous.
+INTERACTING GENE G235568 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235568 Corr:	continuous.
+INTERACTING GENE G236506 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236506 Corr:	continuous.
+INTERACTING GENE G236496 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236496 Corr:	continuous.
+INTERACTING GENE G235572 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235572 Corr:	continuous.
+INTERACTING GENE G235573 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235573 Corr:	continuous.
+INTERACTING GENE G235574 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235574 Corr:	continuous.
+INTERACTING GENE G235575 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235575 Corr:	continuous.
+INTERACTING GENE G236479 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236479 Corr:	continuous.
+INTERACTING GENE G235578 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235578 Corr:	continuous.
+INTERACTING GENE G235579 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235579 Corr:	continuous.
+INTERACTING GENE G235580 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235580 Corr:	continuous.
+INTERACTING GENE G235581 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235581 Corr:	continuous.
+INTERACTING GENE G235586 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235586 Corr:	continuous.
+INTERACTING GENE G236462 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236462 Corr:	continuous.
+INTERACTING GENE G236456 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236456 Corr:	continuous.
+INTERACTING GENE G235592 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235592 Corr:	continuous.
+INTERACTING GENE G236406 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236406 Corr:	continuous.
+INTERACTING GENE G236399 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236399 Corr:	continuous.
+INTERACTING GENE G235597 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235597 Corr:	continuous.
+INTERACTING GENE G236363 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236363 Corr:	continuous.
+INTERACTING GENE G235603 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235603 Corr:	continuous.
+INTERACTING GENE G236356 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236356 Corr:	continuous.
+INTERACTING GENE G235606 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235606 Corr:	continuous.
+INTERACTING GENE G235607 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235607 Corr:	continuous.
+INTERACTING GENE G235610 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235610 Corr:	continuous.
+INTERACTING GENE G236351 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236351 Corr:	continuous.
+INTERACTING GENE G235615 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235615 Corr:	continuous.
+INTERACTING GENE G235616 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235616 Corr:	continuous.
+INTERACTING GENE G235617 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235617 Corr:	continuous.
+INTERACTING GENE G235619 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235619 Corr:	continuous.
+INTERACTING GENE G235620 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235620 Corr:	continuous.
+INTERACTING GENE G235621 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235621 Corr:	continuous.
+INTERACTING GENE G235624 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235624 Corr:	continuous.
+INTERACTING GENE G235625 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235625 Corr:	continuous.
+INTERACTING GENE G235626 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235626 Corr:	continuous.
+INTERACTING GENE G235627 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235627 Corr:	continuous.
+INTERACTING GENE G235628 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235628 Corr:	continuous.
+INTERACTING GENE G235629 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235629 Corr:	continuous.
+INTERACTING GENE G235630 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235630 Corr:	continuous.
+INTERACTING GENE G235631 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235631 Corr:	continuous.
+INTERACTING GENE G235632 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235632 Corr:	continuous.
+INTERACTING GENE G235634 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235634 Corr:	continuous.
+INTERACTING GENE G236336 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236336 Corr:	continuous.
+INTERACTING GENE G235636 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235636 Corr:	continuous.
+INTERACTING GENE G235637 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235637 Corr:	continuous.
+INTERACTING GENE G236325 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236325 Corr:	continuous.
+INTERACTING GENE G235639 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235639 Corr:	continuous.
+INTERACTING GENE G235640 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235640 Corr:	continuous.
+INTERACTING GENE G236280 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236280 Corr:	continuous.
+INTERACTING GENE G235648 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235648 Corr:	continuous.
+INTERACTING GENE G235649 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235649 Corr:	continuous.
+INTERACTING GENE G235652 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235652 Corr:	continuous.
+INTERACTING GENE G235653 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235653 Corr:	continuous.
+INTERACTING GENE G235654 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235654 Corr:	continuous.
+INTERACTING GENE G235655 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235655 Corr:	continuous.
+INTERACTING GENE G235664 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235664 Corr:	continuous.
+INTERACTING GENE G235667 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235667 Corr:	continuous.
+INTERACTING GENE G236268 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236268 Corr:	continuous.
+INTERACTING GENE G235672 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235672 Corr:	continuous.
+INTERACTING GENE G236244 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236244 Corr:	continuous.
+INTERACTING GENE G235677 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235677 Corr:	continuous.
+INTERACTING GENE G236210 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236210 Corr:	continuous.
+INTERACTING GENE G235680 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235680 Corr:	continuous.
+INTERACTING GENE G235681 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235681 Corr:	continuous.
+INTERACTING GENE G235683 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235683 Corr:	continuous.
+INTERACTING GENE G236206 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236206 Corr:	continuous.
+INTERACTING GENE G235687 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235687 Corr:	continuous.
+INTERACTING GENE G235688 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235688 Corr:	continuous.
+INTERACTING GENE G235689 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235689 Corr:	continuous.
+INTERACTING GENE G235690 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235690 Corr:	continuous.
+INTERACTING GENE G235692 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235692 Corr:	continuous.
+INTERACTING GENE G235693 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235693 Corr:	continuous.
+INTERACTING GENE G236194 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236194 Corr:	continuous.
+INTERACTING GENE G235697 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235697 Corr:	continuous.
+INTERACTING GENE G235699 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235699 Corr:	continuous.
+INTERACTING GENE G235701 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235701 Corr:	continuous.
+INTERACTING GENE G235703 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235703 Corr:	continuous.
+INTERACTING GENE G236176 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236176 Corr:	continuous.
+INTERACTING GENE G236167 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236167 Corr:	continuous.
+INTERACTING GENE G235706 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235706 Corr:	continuous.
+INTERACTING GENE G236161 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236161 Corr:	continuous.
+INTERACTING GENE G235711 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235711 Corr:	continuous.
+INTERACTING GENE G235712 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235712 Corr:	continuous.
+INTERACTING GENE G235715 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235715 Corr:	continuous.
+INTERACTING GENE G235716 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235716 Corr:	continuous.
+INTERACTING GENE G235717 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235717 Corr:	continuous.
+INTERACTING GENE G235718 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235718 Corr:	continuous.
+INTERACTING GENE G236154 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236154 Corr:	continuous.
+INTERACTING GENE G235723 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235723 Corr:	continuous.
+INTERACTING GENE G235724 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235724 Corr:	continuous.
+INTERACTING GENE G235725 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235725 Corr:	continuous.
+INTERACTING GENE G235726 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235726 Corr:	continuous.
+INTERACTING GENE G235728 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235728 Corr:	continuous.
+INTERACTING GENE G235729 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235729 Corr:	continuous.
+INTERACTING GENE G235733 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235733 Corr:	continuous.
+INTERACTING GENE G235735 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235735 Corr:	continuous.
+INTERACTING GENE G235737 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235737 Corr:	continuous.
+INTERACTING GENE G235741 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235741 Corr:	continuous.
+INTERACTING GENE G235744 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235744 Corr:	continuous.
+INTERACTING GENE G236152 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236152 Corr:	continuous.
+INTERACTING GENE G236147 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236147 Corr:	continuous.
+INTERACTING GENE G235749 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235749 Corr:	continuous.
+INTERACTING GENE G235750 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235750 Corr:	continuous.
+INTERACTING GENE G236121 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236121 Corr:	continuous.
+INTERACTING GENE G235754 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235754 Corr:	continuous.
+INTERACTING GENE G235756 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235756 Corr:	continuous.
+INTERACTING GENE G235758 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235758 Corr:	continuous.
+INTERACTING GENE G235759 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235759 Corr:	continuous.
+INTERACTING GENE G236116 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236116 Corr:	continuous.
+INTERACTING GENE G235762 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235762 Corr:	continuous.
+INTERACTING GENE G235763 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235763 Corr:	continuous.
+INTERACTING GENE G235765 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235765 Corr:	continuous.
+INTERACTING GENE G235766 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235766 Corr:	continuous.
+INTERACTING GENE G236111 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236111 Corr:	continuous.
+INTERACTING GENE G235769 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235769 Corr:	continuous.
+INTERACTING GENE G236096 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236096 Corr:	continuous.
+INTERACTING GENE G235772 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235772 Corr:	continuous.
+INTERACTING GENE G236085 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236085 Corr:	continuous.
+INTERACTING GENE G235776 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235776 Corr:	continuous.
+INTERACTING GENE G236084 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236084 Corr:	continuous.
+INTERACTING GENE G236081 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236081 Corr:	continuous.
+INTERACTING GENE G235780 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235780 Corr:	continuous.
+INTERACTING GENE G235781 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235781 Corr:	continuous.
+INTERACTING GENE G235782 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235782 Corr:	continuous.
+INTERACTING GENE G236068 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236068 Corr:	continuous.
+INTERACTING GENE G235785 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235785 Corr:	continuous.
+INTERACTING GENE G235788 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235788 Corr:	continuous.
+INTERACTING GENE G235793 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235793 Corr:	continuous.
+INTERACTING GENE G236063 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236063 Corr:	continuous.
+INTERACTING GENE G236047 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236047 Corr:	continuous.
+INTERACTING GENE G235796 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235796 Corr:	continuous.
+INTERACTING GENE G235801 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235801 Corr:	continuous.
+INTERACTING GENE G235802 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235802 Corr:	continuous.
+INTERACTING GENE G235803 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235803 Corr:	continuous.
+INTERACTING GENE G236045 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236045 Corr:	continuous.
+INTERACTING GENE G235809 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235809 Corr:	continuous.
+INTERACTING GENE G235810 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235810 Corr:	continuous.
+INTERACTING GENE G235815 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235815 Corr:	continuous.
+INTERACTING GENE G235816 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235816 Corr:	continuous.
+INTERACTING GENE G235817 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235817 Corr:	continuous.
+INTERACTING GENE G236022 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236022 Corr:	continuous.
+INTERACTING GENE G235819 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235819 Corr:	continuous.
+INTERACTING GENE G235820 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235820 Corr:	continuous.
+INTERACTING GENE G235821 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235821 Corr:	continuous.
+INTERACTING GENE G235826 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235826 Corr:	continuous.
+INTERACTING GENE G235827 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235827 Corr:	continuous.
+INTERACTING GENE G235828 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235828 Corr:	continuous.
+INTERACTING GENE G235830 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235830 Corr:	continuous.
+INTERACTING GENE G235998 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235998 Corr:	continuous.
+INTERACTING GENE G235832 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235832 Corr:	continuous.
+INTERACTING GENE G235833 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235833 Corr:	continuous.
+INTERACTING GENE G235834 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235834 Corr:	continuous.
+INTERACTING GENE G235835 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235835 Corr:	continuous.
+INTERACTING GENE G235838 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235838 Corr:	continuous.
+INTERACTING GENE G235842 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235842 Corr:	continuous.
+INTERACTING GENE G235843 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235843 Corr:	continuous.
+INTERACTING GENE G235844 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235844 Corr:	continuous.
+INTERACTING GENE G235846 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235846 Corr:	continuous.
+INTERACTING GENE G235995 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235995 Corr:	continuous.
+INTERACTING GENE G235853 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235853 Corr:	continuous.
+INTERACTING GENE G235854 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235854 Corr:	continuous.
+INTERACTING GENE G235972 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235972 Corr:	continuous.
+INTERACTING GENE G235856 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235856 Corr:	continuous.
+INTERACTING GENE G235930 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235930 Corr:	continuous.
+INTERACTING GENE G235859 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235859 Corr:	continuous.
+INTERACTING GENE G235926 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235926 Corr:	continuous.
+INTERACTING GENE G235862 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235862 Corr:	continuous.
+INTERACTING GENE G235863 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235863 Corr:	continuous.
+INTERACTING GENE G235865 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235865 Corr:	continuous.
+INTERACTING GENE G235866 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235866 Corr:	continuous.
+INTERACTING GENE G235867 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235867 Corr:	continuous.
+INTERACTING GENE G235871 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235871 Corr:	continuous.
+INTERACTING GENE G235872 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235872 Corr:	continuous.
+INTERACTING GENE G235874 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235874 Corr:	continuous.
+INTERACTING GENE G235924 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235924 Corr:	continuous.
+INTERACTING GENE G235876 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235876 Corr:	continuous.
+INTERACTING GENE G235922 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235922 Corr:	continuous.
+INTERACTING GENE G235881 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235881 Corr:	continuous.
+INTERACTING GENE G235914 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235914 Corr:	continuous.
+INTERACTING GENE G235885 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235885 Corr:	continuous.
+INTERACTING GENE G235912 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235912 Corr:	continuous.
+INTERACTING GENE G235889 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235889 Corr:	continuous.
+INTERACTING GENE G235892 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235892 Corr:	continuous.
+INTERACTING GENE G235906 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235906 Corr:	continuous.
+INTERACTING GENE G235897 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235897 Corr:	continuous.
+INTERACTING GENE G235905 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235905 Corr:	continuous.
+INTERACTING GENE G235899 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235899 Corr:	continuous.
+INTERACTING GENE G234062 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234062 Corr:	continuous.
+INTERACTING GENE G240492 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240492 Corr:	continuous.
+INTERACTING GENE G240462 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240462 Corr:	continuous.
+INTERACTING GENE G240440 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240440 Corr:	continuous.
+INTERACTING GENE G240407 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240407 Corr:	continuous.
+INTERACTING GENE G240380 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240380 Corr:	continuous.
+INTERACTING GENE G240373 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240373 Corr:	continuous.
+INTERACTING GENE G234081 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234081 Corr:	continuous.
+INTERACTING GENE G240327 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240327 Corr:	continuous.
+INTERACTING GENE G240296 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240296 Corr:	continuous.
+INTERACTING GENE G234086 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234086 Corr:	continuous.
+INTERACTING GENE G234087 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234087 Corr:	continuous.
+INTERACTING GENE G240291 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240291 Corr:	continuous.
+INTERACTING GENE G240237 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240237 Corr:	continuous.
+INTERACTING GENE G234094 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234094 Corr:	continuous.
+INTERACTING GENE G240227 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240227 Corr:	continuous.
+INTERACTING GENE G234097 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234097 Corr:	continuous.
+INTERACTING GENE G240200 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240200 Corr:	continuous.
+INTERACTING GENE G240185 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240185 Corr:	continuous.
+INTERACTING GENE G240072 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240072 Corr:	continuous.
+INTERACTING GENE G240057 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240057 Corr:	continuous.
+INTERACTING GENE G240040 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G240040 Corr:	continuous.
+INTERACTING GENE G239974 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239974 Corr:	continuous.
+INTERACTING GENE G239971 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239971 Corr:	continuous.
+INTERACTING GENE G239938 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239938 Corr:	continuous.
+INTERACTING GENE G234112 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234112 Corr:	continuous.
+INTERACTING GENE G234120 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234120 Corr:	continuous.
+INTERACTING GENE G239922 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239922 Corr:	continuous.
+INTERACTING GENE G239913 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239913 Corr:	continuous.
+INTERACTING GENE G239911 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239911 Corr:	continuous.
+INTERACTING GENE G234125 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234125 Corr:	continuous.
+INTERACTING GENE G239856 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239856 Corr:	continuous.
+INTERACTING GENE G239847 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239847 Corr:	continuous.
+INTERACTING GENE G239835 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239835 Corr:	continuous.
+INTERACTING GENE G234137 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234137 Corr:	continuous.
+INTERACTING GENE G239830 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239830 Corr:	continuous.
+INTERACTING GENE G234140 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234140 Corr:	continuous.
+INTERACTING GENE G239825 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239825 Corr:	continuous.
+INTERACTING GENE G234147 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234147 Corr:	continuous.
+INTERACTING GENE G234161 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234161 Corr:	continuous.
+INTERACTING GENE G239681 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239681 Corr:	continuous.
+INTERACTING GENE G239664 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239664 Corr:	continuous.
+INTERACTING GENE G239593 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239593 Corr:	continuous.
+INTERACTING GENE G234175 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234175 Corr:	continuous.
+INTERACTING GENE G239588 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239588 Corr:	continuous.
+INTERACTING GENE G239574 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239574 Corr:	continuous.
+INTERACTING GENE G234179 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234179 Corr:	continuous.
+INTERACTING GENE G234181 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234181 Corr:	continuous.
+INTERACTING GENE G239572 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239572 Corr:	continuous.
+INTERACTING GENE G234189 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234189 Corr:	continuous.
+INTERACTING GENE G239520 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239520 Corr:	continuous.
+INTERACTING GENE G239517 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239517 Corr:	continuous.
+INTERACTING GENE G239399 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239399 Corr:	continuous.
+INTERACTING GENE G234199 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234199 Corr:	continuous.
+INTERACTING GENE G239364 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239364 Corr:	continuous.
+INTERACTING GENE G239343 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239343 Corr:	continuous.
+INTERACTING GENE G234203 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234203 Corr:	continuous.
+INTERACTING GENE G239304 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239304 Corr:	continuous.
+INTERACTING GENE G239273 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239273 Corr:	continuous.
+INTERACTING GENE G239167 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239167 Corr:	continuous.
+INTERACTING GENE G234213 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234213 Corr:	continuous.
+INTERACTING GENE G239162 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239162 Corr:	continuous.
+INTERACTING GENE G234215 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234215 Corr:	continuous.
+INTERACTING GENE G234216 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234216 Corr:	continuous.
+INTERACTING GENE G239060 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G239060 Corr:	continuous.
+INTERACTING GENE G238920 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238920 Corr:	continuous.
+INTERACTING GENE G234226 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234226 Corr:	continuous.
+INTERACTING GENE G238905 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238905 Corr:	continuous.
+INTERACTING GENE G238898 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238898 Corr:	continuous.
+INTERACTING GENE G234231 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234231 Corr:	continuous.
+INTERACTING GENE G238856 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238856 Corr:	continuous.
+INTERACTING GENE G238809 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238809 Corr:	continuous.
+INTERACTING GENE G238800 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238800 Corr:	continuous.
+INTERACTING GENE G238783 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238783 Corr:	continuous.
+INTERACTING GENE G234247 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234247 Corr:	continuous.
+INTERACTING GENE G238723 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238723 Corr:	continuous.
+INTERACTING GENE G234249 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234249 Corr:	continuous.
+INTERACTING GENE G234256 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234256 Corr:	continuous.
+INTERACTING GENE G234258 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234258 Corr:	continuous.
+INTERACTING GENE G238662 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238662 Corr:	continuous.
+INTERACTING GENE G238615 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238615 Corr:	continuous.
+INTERACTING GENE G238609 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238609 Corr:	continuous.
+INTERACTING GENE G234267 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234267 Corr:	continuous.
+INTERACTING GENE G234268 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234268 Corr:	continuous.
+INTERACTING GENE G238584 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238584 Corr:	continuous.
+INTERACTING GENE G238447 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238447 Corr:	continuous.
+INTERACTING GENE G234273 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234273 Corr:	continuous.
+INTERACTING GENE G238429 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238429 Corr:	continuous.
+INTERACTING GENE G238400 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238400 Corr:	continuous.
+INTERACTING GENE G238375 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238375 Corr:	continuous.
+INTERACTING GENE G234283 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234283 Corr:	continuous.
+INTERACTING GENE G238170 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238170 Corr:	continuous.
+INTERACTING GENE G238147 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238147 Corr:	continuous.
+INTERACTING GENE G234289 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234289 Corr:	continuous.
+INTERACTING GENE G238132 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238132 Corr:	continuous.
+INTERACTING GENE G238063 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238063 Corr:	continuous.
+INTERACTING GENE G238048 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G238048 Corr:	continuous.
+INTERACTING GENE G234298 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234298 Corr:	continuous.
+INTERACTING GENE G234299 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234299 Corr:	continuous.
+INTERACTING GENE G237986 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237986 Corr:	continuous.
+INTERACTING GENE G237747 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237747 Corr:	continuous.
+INTERACTING GENE G234314 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234314 Corr:	continuous.
+INTERACTING GENE G237728 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237728 Corr:	continuous.
+INTERACTING GENE G237700 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237700 Corr:	continuous.
+INTERACTING GENE G237670 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237670 Corr:	continuous.
+INTERACTING GENE G237656 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237656 Corr:	continuous.
+INTERACTING GENE G234333 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234333 Corr:	continuous.
+INTERACTING GENE G237587 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237587 Corr:	continuous.
+INTERACTING GENE G234339 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234339 Corr:	continuous.
+INTERACTING GENE G237529 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237529 Corr:	continuous.
+INTERACTING GENE G237436 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237436 Corr:	continuous.
+INTERACTING GENE G237429 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237429 Corr:	continuous.
+INTERACTING GENE G237406 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237406 Corr:	continuous.
+INTERACTING GENE G237392 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237392 Corr:	continuous.
+INTERACTING GENE G237387 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237387 Corr:	continuous.
+INTERACTING GENE G234364 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234364 Corr:	continuous.
+INTERACTING GENE G234365 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234365 Corr:	continuous.
+INTERACTING GENE G237375 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237375 Corr:	continuous.
+INTERACTING GENE G237358 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237358 Corr:	continuous.
+INTERACTING GENE G237337 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237337 Corr:	continuous.
+INTERACTING GENE G234372 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234372 Corr:	continuous.
+INTERACTING GENE G234373 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234373 Corr:	continuous.
+INTERACTING GENE G237321 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237321 Corr:	continuous.
+INTERACTING GENE G237196 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237196 Corr:	continuous.
+INTERACTING GENE G234385 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234385 Corr:	continuous.
+INTERACTING GENE G234389 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234389 Corr:	continuous.
+INTERACTING GENE G237154 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237154 Corr:	continuous.
+INTERACTING GENE G237153 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237153 Corr:	continuous.
+INTERACTING GENE G234394 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234394 Corr:	continuous.
+INTERACTING GENE G237126 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237126 Corr:	continuous.
+INTERACTING GENE G237124 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237124 Corr:	continuous.
+INTERACTING GENE G234405 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234405 Corr:	continuous.
+INTERACTING GENE G237116 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237116 Corr:	continuous.
+INTERACTING GENE G234411 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234411 Corr:	continuous.
+INTERACTING GENE G234412 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234412 Corr:	continuous.
+INTERACTING GENE G237100 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237100 Corr:	continuous.
+INTERACTING GENE G234414 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234414 Corr:	continuous.
+INTERACTING GENE G237059 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237059 Corr:	continuous.
+INTERACTING GENE G237043 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237043 Corr:	continuous.
+INTERACTING GENE G237026 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G237026 Corr:	continuous.
+INTERACTING GENE G234419 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234419 Corr:	continuous.
+INTERACTING GENE G234423 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234423 Corr:	continuous.
+INTERACTING GENE G236985 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236985 Corr:	continuous.
+INTERACTING GENE G236955 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236955 Corr:	continuous.
+INTERACTING GENE G236919 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236919 Corr:	continuous.
+INTERACTING GENE G234433 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234433 Corr:	continuous.
+INTERACTING GENE G236838 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236838 Corr:	continuous.
+INTERACTING GENE G234442 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234442 Corr:	continuous.
+INTERACTING GENE G236831 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236831 Corr:	continuous.
+INTERACTING GENE G236813 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236813 Corr:	continuous.
+INTERACTING GENE G236812 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236812 Corr:	continuous.
+INTERACTING GENE G236771 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236771 Corr:	continuous.
+INTERACTING GENE G236758 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236758 Corr:	continuous.
+INTERACTING GENE G236736 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236736 Corr:	continuous.
+INTERACTING GENE G236661 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236661 Corr:	continuous.
+INTERACTING GENE G236606 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236606 Corr:	continuous.
+INTERACTING GENE G236523 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236523 Corr:	continuous.
+INTERACTING GENE G236380 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236380 Corr:	continuous.
+INTERACTING GENE G234470 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234470 Corr:	continuous.
+INTERACTING GENE G234485 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234485 Corr:	continuous.
+INTERACTING GENE G236279 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236279 Corr:	continuous.
+INTERACTING GENE G234490 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234490 Corr:	continuous.
+INTERACTING GENE G236099 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236099 Corr:	continuous.
+INTERACTING GENE G236066 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236066 Corr:	continuous.
+INTERACTING GENE G236021 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G236021 Corr:	continuous.
+INTERACTING GENE G235933 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235933 Corr:	continuous.
+INTERACTING GENE G234511 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234511 Corr:	continuous.
+INTERACTING GENE G235931 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235931 Corr:	continuous.
+INTERACTING GENE G234515 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234515 Corr:	continuous.
+INTERACTING GENE G235928 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235928 Corr:	continuous.
+INTERACTING GENE G235917 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235917 Corr:	continuous.
+INTERACTING GENE G234521 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234521 Corr:	continuous.
+INTERACTING GENE G235916 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235916 Corr:	continuous.
+INTERACTING GENE G235909 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235909 Corr:	continuous.
+INTERACTING GENE G235908 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235908 Corr:	continuous.
+INTERACTING GENE G235904 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235904 Corr:	continuous.
+INTERACTING GENE G234531 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234531 Corr:	continuous.
+INTERACTING GENE G235901 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235901 Corr:	continuous.
+INTERACTING GENE G234534 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234534 Corr:	continuous.
+INTERACTING GENE G235900 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235900 Corr:	continuous.
+INTERACTING GENE G235898 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235898 Corr:	continuous.
+INTERACTING GENE G235893 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235893 Corr:	continuous.
+INTERACTING GENE G235888 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235888 Corr:	continuous.
+INTERACTING GENE G235882 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235882 Corr:	continuous.
+INTERACTING GENE G235878 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235878 Corr:	continuous.
+INTERACTING GENE G235875 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235875 Corr:	continuous.
+INTERACTING GENE G235860 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235860 Corr:	continuous.
+INTERACTING GENE G235857 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235857 Corr:	continuous.
+INTERACTING GENE G234565 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234565 Corr:	continuous.
+INTERACTING GENE G234570 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234570 Corr:	continuous.
+INTERACTING GENE G235855 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235855 Corr:	continuous.
+INTERACTING GENE G234573 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234573 Corr:	continuous.
+INTERACTING GENE G235848 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235848 Corr:	continuous.
+INTERACTING GENE G234579 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234579 Corr:	continuous.
+INTERACTING GENE G235831 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235831 Corr:	continuous.
+INTERACTING GENE G235818 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235818 Corr:	continuous.
+INTERACTING GENE G235804 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235804 Corr:	continuous.
+INTERACTING GENE G234590 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234590 Corr:	continuous.
+INTERACTING GENE G235795 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235795 Corr:	continuous.
+INTERACTING GENE G234592 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234592 Corr:	continuous.
+INTERACTING GENE G235794 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235794 Corr:	continuous.
+INTERACTING GENE G235783 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235783 Corr:	continuous.
+INTERACTING GENE G235778 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235778 Corr:	continuous.
+INTERACTING GENE G235777 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235777 Corr:	continuous.
+INTERACTING GENE G235775 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235775 Corr:	continuous.
+INTERACTING GENE G234612 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234612 Corr:	continuous.
+INTERACTING GENE G235770 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235770 Corr:	continuous.
+INTERACTING GENE G234615 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234615 Corr:	continuous.
+INTERACTING GENE G234617 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234617 Corr:	continuous.
+INTERACTING GENE G234618 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234618 Corr:	continuous.
+INTERACTING GENE G235767 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235767 Corr:	continuous.
+INTERACTING GENE G234633 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234633 Corr:	continuous.
+INTERACTING GENE G235761 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235761 Corr:	continuous.
+INTERACTING GENE G235752 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235752 Corr:	continuous.
+INTERACTING GENE G235748 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235748 Corr:	continuous.
+INTERACTING GENE G235746 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235746 Corr:	continuous.
+INTERACTING GENE G234641 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234641 Corr:	continuous.
+INTERACTING GENE G235719 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235719 Corr:	continuous.
+INTERACTING GENE G235709 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235709 Corr:	continuous.
+INTERACTING GENE G234645 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234645 Corr:	continuous.
+INTERACTING GENE G234651 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234651 Corr:	continuous.
+INTERACTING GENE G235705 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235705 Corr:	continuous.
+INTERACTING GENE G234653 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234653 Corr:	continuous.
+INTERACTING GENE G235704 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235704 Corr:	continuous.
+INTERACTING GENE G235695 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235695 Corr:	continuous.
+INTERACTING GENE G235685 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235685 Corr:	continuous.
+INTERACTING GENE G235679 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235679 Corr:	continuous.
+INTERACTING GENE G235673 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235673 Corr:	continuous.
+INTERACTING GENE G234671 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234671 Corr:	continuous.
+INTERACTING GENE G235668 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235668 Corr:	continuous.
+INTERACTING GENE G234679 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234679 Corr:	continuous.
+INTERACTING GENE G235646 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235646 Corr:	continuous.
+INTERACTING GENE G234683 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234683 Corr:	continuous.
+INTERACTING GENE G235638 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235638 Corr:	continuous.
+INTERACTING GENE G235635 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235635 Corr:	continuous.
+INTERACTING GENE G234688 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234688 Corr:	continuous.
+INTERACTING GENE G235612 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235612 Corr:	continuous.
+INTERACTING GENE G234698 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234698 Corr:	continuous.
+INTERACTING GENE G235605 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235605 Corr:	continuous.
+INTERACTING GENE G234701 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234701 Corr:	continuous.
+INTERACTING GENE G235602 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235602 Corr:	continuous.
+INTERACTING GENE G234704 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234704 Corr:	continuous.
+INTERACTING GENE G234711 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234711 Corr:	continuous.
+INTERACTING GENE G235596 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235596 Corr:	continuous.
+INTERACTING GENE G235595 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235595 Corr:	continuous.
+INTERACTING GENE G235589 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235589 Corr:	continuous.
+INTERACTING GENE G235587 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235587 Corr:	continuous.
+INTERACTING GENE G234728 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234728 Corr:	continuous.
+INTERACTING GENE G235576 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235576 Corr:	continuous.
+INTERACTING GENE G235571 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235571 Corr:	continuous.
+INTERACTING GENE G235569 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235569 Corr:	continuous.
+INTERACTING GENE G235567 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235567 Corr:	continuous.
+INTERACTING GENE G234739 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234739 Corr:	continuous.
+INTERACTING GENE G234741 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234741 Corr:	continuous.
+INTERACTING GENE G234742 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234742 Corr:	continuous.
+INTERACTING GENE G234743 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234743 Corr:	continuous.
+INTERACTING GENE G235565 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235565 Corr:	continuous.
+INTERACTING GENE G235562 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235562 Corr:	continuous.
+INTERACTING GENE G235547 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235547 Corr:	continuous.
+INTERACTING GENE G234750 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234750 Corr:	continuous.
+INTERACTING GENE G235541 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235541 Corr:	continuous.
+INTERACTING GENE G235538 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235538 Corr:	continuous.
+INTERACTING GENE G234758 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234758 Corr:	continuous.
+INTERACTING GENE G235537 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235537 Corr:	continuous.
+INTERACTING GENE G235533 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235533 Corr:	continuous.
+INTERACTING GENE G235524 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235524 Corr:	continuous.
+INTERACTING GENE G235520 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235520 Corr:	continuous.
+INTERACTING GENE G235517 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235517 Corr:	continuous.
+INTERACTING GENE G235511 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235511 Corr:	continuous.
+INTERACTING GENE G235507 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235507 Corr:	continuous.
+INTERACTING GENE G234773 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234773 Corr:	continuous.
+INTERACTING GENE G235505 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235505 Corr:	continuous.
+INTERACTING GENE G234780 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234780 Corr:	continuous.
+INTERACTING GENE G234785 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234785 Corr:	continuous.
+INTERACTING GENE G235503 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235503 Corr:	continuous.
+INTERACTING GENE G235493 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235493 Corr:	continuous.
+INTERACTING GENE G235488 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235488 Corr:	continuous.
+INTERACTING GENE G234790 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234790 Corr:	continuous.
+INTERACTING GENE G234791 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234791 Corr:	continuous.
+INTERACTING GENE G234794 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234794 Corr:	continuous.
+INTERACTING GENE G234798 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234798 Corr:	continuous.
+INTERACTING GENE G234802 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234802 Corr:	continuous.
+INTERACTING GENE G235487 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235487 Corr:	continuous.
+INTERACTING GENE G234806 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234806 Corr:	continuous.
+INTERACTING GENE G235476 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235476 Corr:	continuous.
+INTERACTING GENE G235466 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235466 Corr:	continuous.
+INTERACTING GENE G234813 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234813 Corr:	continuous.
+INTERACTING GENE G235454 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235454 Corr:	continuous.
+INTERACTING GENE G235446 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235446 Corr:	continuous.
+INTERACTING GENE G235440 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235440 Corr:	continuous.
+INTERACTING GENE G235424 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235424 Corr:	continuous.
+INTERACTING GENE G235423 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235423 Corr:	continuous.
+INTERACTING GENE G234834 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234834 Corr:	continuous.
+INTERACTING GENE G234837 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234837 Corr:	continuous.
+INTERACTING GENE G235414 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235414 Corr:	continuous.
+INTERACTING GENE G234847 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234847 Corr:	continuous.
+INTERACTING GENE G235405 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235405 Corr:	continuous.
+INTERACTING GENE G235402 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235402 Corr:	continuous.
+INTERACTING GENE G235393 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235393 Corr:	continuous.
+INTERACTING GENE G235392 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235392 Corr:	continuous.
+INTERACTING GENE G235389 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235389 Corr:	continuous.
+INTERACTING GENE G234861 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234861 Corr:	continuous.
+INTERACTING GENE G235387 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235387 Corr:	continuous.
+INTERACTING GENE G235385 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235385 Corr:	continuous.
+INTERACTING GENE G235377 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235377 Corr:	continuous.
+INTERACTING GENE G235376 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235376 Corr:	continuous.
+INTERACTING GENE G235369 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235369 Corr:	continuous.
+INTERACTING GENE G235367 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235367 Corr:	continuous.
+INTERACTING GENE G235362 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235362 Corr:	continuous.
+INTERACTING GENE G235356 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235356 Corr:	continuous.
+INTERACTING GENE G234881 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234881 Corr:	continuous.
+INTERACTING GENE G235354 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235354 Corr:	continuous.
+INTERACTING GENE G235353 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235353 Corr:	continuous.
+INTERACTING GENE G235352 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235352 Corr:	continuous.
+INTERACTING GENE G235339 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235339 Corr:	continuous.
+INTERACTING GENE G234905 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234905 Corr:	continuous.
+INTERACTING GENE G235337 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235337 Corr:	continuous.
+INTERACTING GENE G235328 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235328 Corr:	continuous.
+INTERACTING GENE G235325 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235325 Corr:	continuous.
+INTERACTING GENE G235319 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235319 Corr:	continuous.
+INTERACTING GENE G235318 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235318 Corr:	continuous.
+INTERACTING GENE G235315 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235315 Corr:	continuous.
+INTERACTING GENE G235311 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235311 Corr:	continuous.
+INTERACTING GENE G235305 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235305 Corr:	continuous.
+INTERACTING GENE G234922 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234922 Corr:	continuous.
+INTERACTING GENE G235299 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235299 Corr:	continuous.
+INTERACTING GENE G234927 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234927 Corr:	continuous.
+INTERACTING GENE G235291 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235291 Corr:	continuous.
+INTERACTING GENE G235284 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235284 Corr:	continuous.
+INTERACTING GENE G235276 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235276 Corr:	continuous.
+INTERACTING GENE G235275 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235275 Corr:	continuous.
+INTERACTING GENE G235268 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235268 Corr:	continuous.
+INTERACTING GENE G234940 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234940 Corr:	continuous.
+INTERACTING GENE G235256 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235256 Corr:	continuous.
+INTERACTING GENE G234945 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234945 Corr:	continuous.
+INTERACTING GENE G235255 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235255 Corr:	continuous.
+INTERACTING GENE G235237 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235237 Corr:	continuous.
+INTERACTING GENE G234951 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234951 Corr:	continuous.
+INTERACTING GENE G235236 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235236 Corr:	continuous.
+INTERACTING GENE G235233 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235233 Corr:	continuous.
+INTERACTING GENE G235232 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235232 Corr:	continuous.
+INTERACTING GENE G234958 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234958 Corr:	continuous.
+INTERACTING GENE G235224 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235224 Corr:	continuous.
+INTERACTING GENE G235223 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235223 Corr:	continuous.
+INTERACTING GENE G235220 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235220 Corr:	continuous.
+INTERACTING GENE G234965 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234965 Corr:	continuous.
+INTERACTING GENE G235215 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235215 Corr:	continuous.
+INTERACTING GENE G234971 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234971 Corr:	continuous.
+INTERACTING GENE G235208 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235208 Corr:	continuous.
+INTERACTING GENE G234974 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234974 Corr:	continuous.
+INTERACTING GENE G235186 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235186 Corr:	continuous.
+INTERACTING GENE G234977 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234977 Corr:	continuous.
+INTERACTING GENE G235183 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235183 Corr:	continuous.
+INTERACTING GENE G235179 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235179 Corr:	continuous.
+INTERACTING GENE G234992 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G234992 Corr:	continuous.
+INTERACTING GENE G235176 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235176 Corr:	continuous.
+INTERACTING GENE G235166 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235166 Corr:	continuous.
+INTERACTING GENE G235001 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235001 Corr:	continuous.
+INTERACTING GENE G235160 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235160 Corr:	continuous.
+INTERACTING GENE G235150 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235150 Corr:	continuous.
+INTERACTING GENE G235149 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235149 Corr:	continuous.
+INTERACTING GENE G235121 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235121 Corr:	continuous.
+INTERACTING GENE G235118 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235118 Corr:	continuous.
+INTERACTING GENE G235112 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235112 Corr:	continuous.
+INTERACTING GENE G235111 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235111 Corr:	continuous.
+INTERACTING GENE G235110 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235110 Corr:	continuous.
+INTERACTING GENE G235109 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235109 Corr:	continuous.
+INTERACTING GENE G235033 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235033 Corr:	continuous.
+INTERACTING GENE G235108 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235108 Corr:	continuous.
+INTERACTING GENE G235106 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235106 Corr:	continuous.
+INTERACTING GENE G235104 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235104 Corr:	continuous.
+INTERACTING GENE G235098 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235098 Corr:	continuous.
+INTERACTING GENE G235097 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235097 Corr:	continuous.
+INTERACTING GENE G235050 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235050 Corr:	continuous.
+INTERACTING GENE G235051 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235051 Corr:	continuous.
+INTERACTING GENE G235096 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235096 Corr:	continuous.
+INTERACTING GENE G235094 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235094 Corr:	continuous.
+INTERACTING GENE G235055 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235055 Corr:	continuous.
+INTERACTING GENE G235082 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235082 Corr:	continuous.
+INTERACTING GENE G235081 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235081 Corr:	continuous.
+INTERACTING GENE G235069 Type:	Physical, Genetic, Genetic-Physical.
+INTERACTING GENE G235069 Corr:	continuous.
+FUNCTION "CELL GROWTH, CELL DIVISION AND DNA SYNTHESIS     ":	Yes, No.
+FUNCTION "CELL RESCUE, DEFENSE, CELL DEATH AND AGEING     ":	Yes, No.
+FUNCTION CELLULAR BIOGENESIS (proteins are not localized to the corresponding organelle)  :	Yes, No.
+FUNCTION CELLULAR COMMUNICATION/SIGNAL TRANSDUCTION         :	Yes, No.
+FUNCTION CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle)   :	Yes, No.
+FUNCTION CELLULAR TRANSPORT AND TRANSPORTMECHANISMS        :	Yes, No.
+FUNCTION ENERGY           :	Yes, No.
+FUNCTION IONIC HOMEOSTASIS          :	Yes, No.
+FUNCTION METABOLISM:	Yes, No.
+FUNCTION PROTEIN DESTINATION          :	Yes, No.
+FUNCTION PROTEIN SYNTHESIS          :	Yes, No.
+FUNCTION TRANSCRIPTION           :	Yes, No.
+FUNCTION TRANSPORT FACILITATION          :	Yes, No.
+FUNCTION "TRANSPOSABLE ELEMENTS, VIRAL AND PLASMID PROTEINS      ":	Yes, No.
+LOCALIZATION:	cell wall, cytoplasm, cytoskeleton, endosome, ER, extracellular, golgi, integral membrane, lipid particles, mitochondria, nucleus, peroxisome, plasma membrane, transport vesicles, vacuole.
