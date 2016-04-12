@@ -2,7 +2,7 @@
                          Gene Localization Prediction:
 
 This project implements nearest neighbor based machine learning algorithm to
-predict localization of zenes. The data set is taken from KDD 2001 cup contest. 
+predict localization of genes. The data set is taken from KDD 2001 cup contest. 
 The algorithm implemented here is based on the approach described by winners of
 KDD 2001 cup.
 #------------------------------------------------------------------------------#
