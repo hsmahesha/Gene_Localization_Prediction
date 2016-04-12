@@ -193,15 +193,19 @@ def open_files():
 #------------------------------------------------------------------------------#
 def write_result(pred_dict, act_pred_dict, accuracy):
     rfile = open_file("./result.txt", "w")
-
-    rfile.write("Gene No      Actual Loc\t\t\tPredicted Locs\n\n")
+    
+    G = "Gene No"
+    A = "Actual Loc"
+    P = "Predicted Locs"
+    
+    rfile.write(G.ljust(12) + A.ljust(35) + P + "\n\n")
 
     for key, value in act_pred_dict.items():
         pred_locs = pred_dict[key]
-        rfile.write(key + "      " + value + "\t\t\t" + str(pred_locs) + "\n")
+        rfile.write(key.ljust(12) + value.ljust(35) + str(pred_locs) + "\n")
 
     rfile.write("\n\n");
-    rfile.write("Accuracy = " + str(accuracy) + "%") 
+    rfile.write("Accuracy = " + str(accuracy) + "%")
     rfile.write("\n\n")
     rfile.close()
 #------------------------------------------------------------------------------#
